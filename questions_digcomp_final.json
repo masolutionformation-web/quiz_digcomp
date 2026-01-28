@@ -1,0 +1,4802 @@
+[
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Rechercher l'information en ligne (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Où devez-vous taper des mots-clés pour trouver une recette de cuisine sur Internet ?",
+    "options": [
+      {
+        "text": "Dans la barre de menus du système",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans la barre de recherche d’un moteur de recherche (ex: Google, Bing)",
+        "isCorrect": true
+      },
+      {
+        "text": "Dans un document Word vierge",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans la barre d'adresse du navigateur",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans le menu Démarrer",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les moteurs de recherche indexent le web pour rendre l'information accessible via des mots-clés."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Rechercher l'information en ligne (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Vous cherchez une image de 'chat'. Que devez-vous faire après avoir tapé le mot 'chat' ?",
+    "options": [
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Appuyer sur la touche 'Entrée' ou cliquer sur la loupe",
+        "isCorrect": true
+      },
+      {
+        "text": "Redémarrer l'application",
+        "isCorrect": false
+      },
+      {
+        "text": "Accéder aux paramètres",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La validation de la requête est nécessaire pour envoyer l'instruction au serveur de recherche."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Rechercher l'information en ligne (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Si vous cliquez sur un lien erroné, comment revenir à la page précédente ?",
+    "options": [
+      {
+        "text": "Fermer l'onglet actuel",
+        "isCorrect": false
+      },
+      {
+        "text": "Cliquer sur la flèche 'Retour' du navigateur",
+        "isCorrect": true
+      },
+      {
+        "text": "Cliquer sur la flèche 'Suivant'",
+        "isCorrect": false
+      },
+      {
+        "text": "Actualiser la page avec F5",
+        "isCorrect": false
+      },
+      {
+        "text": "Ouvrir un nouvel onglet",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le bouton 'Précédent' permet de circuler dans l'historique de navigation de la session active."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Stocker et restituer des fichiers (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Quelle action permet de conserver un document pour le réutiliser plus tard ?",
+    "options": [
+      {
+        "text": "Lancer une procédure d'impression",
+        "isCorrect": false
+      },
+      {
+        "text": "Utiliser la fonction 'Enregistrer' ou 'Sauvegarder'",
+        "isCorrect": true
+      },
+      {
+        "text": "Déplacer le fichier vers la corbeille système",
+        "isCorrect": false
+      },
+      {
+        "text": "Créer un raccourci sur le Bureau",
+        "isCorrect": false
+      },
+      {
+        "text": "Imprimer le document en PDF",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'enregistrement écrit les données sur un support non-volatil (disque dur, SSD)."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Stocker et restituer des fichiers (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Où sont généralement rangés vos fichiers pour les retrouver facilement ?",
+    "options": [
+      {
+        "text": "Dans le navigateur web",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans des dossiers structurés (ex: Documents, Images)",
+        "isCorrect": true
+      },
+      {
+        "text": "Dans la corbeille",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans les applications récentes",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans la barre des tâches",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'arborescence par dossiers est la base de l'organisation des données numériques."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Stocker et restituer des fichiers (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Si vous ne trouvez plus un fichier, quel outil pouvez-vous utiliser ?",
+    "options": [
+      {
+        "text": "La fonction de recherche interne (loupe) de l'OS",
+        "isCorrect": true
+      },
+      {
+        "text": "L'utilitaire de calcul arithmétique",
+        "isCorrect": false
+      },
+      {
+        "text": "Le gestionnaire de sortie audio",
+        "isCorrect": false
+      },
+      {
+        "text": "Les propriétés du système",
+        "isCorrect": false
+      },
+      {
+        "text": "La liste des fichiers récents",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les systèmes d'exploitation indexent les fichiers pour permettre une localisation par nom ou contenu."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Partager des fichiers (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Vous souhaitez donner une photo à un ami à côté de vous sans Internet. Que pouvez-vous utiliser ?",
+    "options": [
+      {
+        "text": "Un email",
+        "isCorrect": false
+      },
+      {
+        "text": "Un support de stockage amovible (Clé USB)",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Bluetooth",
+        "isCorrect": false
+      },
+      {
+        "text": "Un câble réseau Ethernet",
+        "isCorrect": false
+      },
+      {
+        "text": "Le partage de connexion Wi-Fi",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La clé USB permet le transfert physique de données entre deux terminaux déconnectés."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Partager des fichiers (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Dans un email, comment appelle-t-on le fichier que l'on 'accroche' au message ?",
+    "options": [
+      {
+        "text": "Une signature électronique",
+        "isCorrect": false
+      },
+      {
+        "text": "Une pièce jointe (Attachment)",
+        "isCorrect": true
+      },
+      {
+        "text": "Un fichier en brouillon",
+        "isCorrect": false
+      },
+      {
+        "text": "Un lien hypertexte",
+        "isCorrect": false
+      },
+      {
+        "text": "Un objet du message",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La fonction 'Pièce jointe' permet d'associer des fichiers informatiques à un message textuel."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Partager des fichiers (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Que se passe-t-il si vous partagez un fichier par email ?",
+    "options": [
+      {
+        "text": "Le fichier est déplacé et disparaît de la source",
+        "isCorrect": false
+      },
+      {
+        "text": "Une copie numérique est transmise au destinataire",
+        "isCorrect": true
+      },
+      {
+        "text": "L'unité centrale est verrouillée durant l'envoi",
+        "isCorrect": false
+      },
+      {
+        "text": "Un fichier en brouillon",
+        "isCorrect": false
+      },
+      {
+        "text": "Une signature électronique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le partage numérique crée une réplique, l'original reste sur votre terminal."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Saisir un texte et utiliser les fonctions de base (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Quelle touche permet de créer un espace entre deux mots ?",
+    "options": [
+      {
+        "text": "La touche d'échappement (Esc)",
+        "isCorrect": false
+      },
+      {
+        "text": "La barre d'espace",
+        "isCorrect": true
+      },
+      {
+        "text": "La touche de contrôle (Ctrl)",
+        "isCorrect": false
+      },
+      {
+        "text": "La touche Tabulation (Tab)",
+        "isCorrect": false
+      },
+      {
+        "text": "La touche de verrouillage (Caps Lock)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La barre d'espace insère un caractère de séparation indispensable à la lecture."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Saisir un texte et utiliser les fonctions de base (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Pour écrire une lettre majuscule, quelle touche devez-vous maintenir enfoncée ?",
+    "options": [
+      {
+        "text": "La touche de validation 'Entrée'",
+        "isCorrect": false
+      },
+      {
+        "text": "La touche Maj (ou Shift)",
+        "isCorrect": true
+      },
+      {
+        "text": "La touche de suppression (Suppr)",
+        "isCorrect": false
+      },
+      {
+        "text": "La touche Windows",
+        "isCorrect": false
+      },
+      {
+        "text": "La touche Alt",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La touche Majuscule modifie temporairement le signal du caractère frappé."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Saisir un texte et utiliser les fonctions de base (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Quelle touche permet d'effacer le caractère situé à gauche du curseur ?",
+    "options": [
+      {
+        "text": "La touche de tabulation (Tab)",
+        "isCorrect": false
+      },
+      {
+        "text": "La touche 'Retour arrière' (Backspace)",
+        "isCorrect": true
+      },
+      {
+        "text": "La touche de fonction F1",
+        "isCorrect": false
+      },
+      {
+        "text": "La touche Entrée",
+        "isCorrect": false
+      },
+      {
+        "text": "La touche Suppr (Delete)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le retour arrière est l'outil principal de correction lors de la saisie."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Identifier les types de réseaux sociaux (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Lequel de ces logos représente un outil pour envoyer des emails ?",
+    "options": [
+      {
+        "text": "Un pictogramme d'appareil photo",
+        "isCorrect": false
+      },
+      {
+        "text": "Une icône d'enveloppe (ex: Gmail, Outlook)",
+        "isCorrect": true
+      },
+      {
+        "text": "Une icône de manette de jeu",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution unifiée",
+        "isCorrect": false
+      },
+      {
+        "text": "Un objet du message",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'enveloppe est le symbole universel de la messagerie asynchrone."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Identifier les types de réseaux sociaux (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. À quoi sert principalement une application comme WhatsApp ou Messenger ?",
+    "options": [
+      {
+        "text": "À la rédaction de tableurs complexes",
+        "isCorrect": false
+      },
+      {
+        "text": "À communiquer par messages instantanés ou appels",
+        "isCorrect": true
+      },
+      {
+        "text": "À la défragmentation du disque dur",
+        "isCorrect": false
+      },
+      {
+        "text": "À gérer son emploi du temps",
+        "isCorrect": false
+      },
+      {
+        "text": "À écrire des documents professionnels",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Ce sont des services de messagerie instantanée privilégiant l'instantanéité."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Identifier les types de réseaux sociaux (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Qu'est-ce qu'un 'réseau social' ?",
+    "options": [
+      {
+        "text": "Un programme de réparation matérielle",
+        "isCorrect": false
+      },
+      {
+        "text": "Une plateforme d'interaction et de partage communautaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Un système d'exploitation pour serveurs",
+        "isCorrect": false
+      },
+      {
+        "text": "Un outil de sauvegarde automatique",
+        "isCorrect": false
+      },
+      {
+        "text": "Un service de stockage cloud",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le but est la connexion entre individus au sein d'une structure sociale numérique."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les fonctions simples des services en ligne (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Pour accéder à un compte personnel (banque, email), que devez-vous fournir ?",
+    "options": [
+      {
+        "text": "Votre identité sonore uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Un couple identifiant et mot de passe",
+        "isCorrect": true
+      },
+      {
+        "text": "L'adresse MAC de votre terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "Un objet du message",
+        "isCorrect": false
+      },
+      {
+        "text": "Une signature électronique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'authentification simple repose sur une information connue de l'usager et du système."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les fonctions simples des services en ligne (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Que signifie 'Se déconnecter' d'un service en ligne ?",
+    "options": [
+      {
+        "text": "Désactiver logiciellement la carte réseau",
+        "isCorrect": false
+      },
+      {
+        "text": "Clôturer la session pour sécuriser l'accès au compte",
+        "isCorrect": true
+      },
+      {
+        "text": "Vider le cache du navigateur",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver les cookies",
+        "isCorrect": false
+      },
+      {
+        "text": "Activer le mode navigation privée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La déconnexion invalide le jeton de session actif sur le terminal."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les fonctions simples des services en ligne (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Que représente souvent une icône en forme de 'Maison' sur un site ?",
+    "options": [
+      {
+        "text": "Un lien vers un portail immobilier",
+        "isCorrect": false
+      },
+      {
+        "text": "Le retour à la page d'accueil (Home)",
+        "isCorrect": true
+      },
+      {
+        "text": "La clôture immédiate du navigateur",
+        "isCorrect": false
+      },
+      {
+        "text": "Les favoris enregistrés",
+        "isCorrect": false
+      },
+      {
+        "text": "L'accès aux paramètres du compte",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "C'est le standard ergonomique pour revenir au point de départ du service."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Créer et modifier du contenu numérique simple (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Vous voulez mettre un mot en 'Gras'. Quelle icône cherchez-vous ?",
+    "options": [
+      {
+        "text": "Un 'I' incliné",
+        "isCorrect": false
+      },
+      {
+        "text": "Un 'G' ou 'B' épais",
+        "isCorrect": true
+      },
+      {
+        "text": "Un 'U' souligné",
+        "isCorrect": false
+      },
+      {
+        "text": "Un 'S' barré (pour barré)",
+        "isCorrect": false
+      },
+      {
+        "text": "Un 'U' souligné (pour souligné)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le bouton Gras augmente la graisse de la police sélectionnée."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Créer et modifier du contenu numérique simple (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Comment passer à la ligne suivante lors de la saisie d'un texte ?",
+    "options": [
+      {
+        "text": "Actionner la barre d'espace jusqu'au bout",
+        "isCorrect": false
+      },
+      {
+        "text": "Appuyer sur la touche 'Entrée'",
+        "isCorrect": true
+      },
+      {
+        "text": "Attendre la saturation de la ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Utiliser le raccourci Ctrl+L",
+        "isCorrect": false
+      },
+      {
+        "text": "Utiliser la touche Tab",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La touche Entrée commande au logiciel de passer au paragraphe suivant."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Créer et modifier du contenu numérique simple (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Vous avez écrit 'Bojour'. Vous voulez ajouter un 'n'. Que faites-vous ?",
+    "options": [
+      {
+        "text": "Je réécris l'intégralité du bloc de texte",
+        "isCorrect": false
+      },
+      {
+        "text": "Je place mon curseur entre le 'o' et le 'j' et je tape 'n'",
+        "isCorrect": true
+      },
+      {
+        "text": "J'utilise la fonction 'Rechercher et remplacer'",
+        "isCorrect": false
+      },
+      {
+        "text": "J'utilise la correction automatique",
+        "isCorrect": false
+      },
+      {
+        "text": "Je double-clique sur le mot pour le corriger",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'insertion de texte se fait à l'endroit exact où clignote le curseur (point d'insertion)."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Être conscient de l'existence des droits de reproduction (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Avez-vous le droit de copier n'importe quelle image trouvée sur Google pour la mettre sur votre site web public ?",
+    "options": [
+      {
+        "text": "Oui, tout ce qui est indexé sur Internet est libre",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, l'image peut être protégée par des droits d'auteur",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, si elle illustre un propos éducatif sans licence",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, si vous modifiez légèrement l'image",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, si l'image est en basse résolution",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La plupart des contenus sont la propriété de leur créateur. Il faut vérifier les droits d'utilisation (Creative Commons, etc.)."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Être conscient de l'existence des droits de reproduction (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Si vous utilisez un texte écrit par quelqu'un d'autre dans votre travail, que devez-vous faire ?",
+    "options": [
+      {
+        "text": "Dire que c'est vous qui l'avez écrit pour valoriser le travail",
+        "isCorrect": false
+      },
+      {
+        "text": "Citer l'auteur ou la source originale explicitement",
+        "isCorrect": true
+      },
+      {
+        "text": "Changer un mot sur deux pour contourner le plagiat",
+        "isCorrect": false
+      },
+      {
+        "text": "L'utiliser tel quel si c'est court",
+        "isCorrect": false
+      },
+      {
+        "text": "Le paraphraser sans mentionner l'auteur",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Citer ses sources est une règle de base du respect de la propriété intellectuelle et de l'honnêteté intellectuelle."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Être conscient de l'existence des droits de reproduction (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Que signifie généralement le symbole © ?",
+    "options": [
+      {
+        "text": "C'est un label indiquant que le contenu est gratuit",
+        "isCorrect": false
+      },
+      {
+        "text": "Copyright (Droits d'auteur réservés)",
+        "isCorrect": true
+      },
+      {
+        "text": "Il s'agit d'une certification de conformité aux normes ISO",
+        "isCorrect": false
+      },
+      {
+        "text": "Indique un contenu mis en cache sur le serveur",
+        "isCorrect": false
+      },
+      {
+        "text": "C'est une marque de certification pour le matériel",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Ce symbole avertit que l'œuvre est protégée par la loi sur le droit d'auteur."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Modifier les paramètres de base des logiciels (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Le son de votre vidéo est trop fort. Quel paramètre devez-vous modifier ?",
+    "options": [
+      {
+        "text": "La luminosité de la dalle d'affichage",
+        "isCorrect": false
+      },
+      {
+        "text": "Le gain de sortie audio (Volume)",
+        "isCorrect": true
+      },
+      {
+        "text": "La taille de la police de caractères",
+        "isCorrect": false
+      },
+      {
+        "text": "Le contraste de l'écran",
+        "isCorrect": false
+      },
+      {
+        "text": "La résolution de la vidéo",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le volume contrôle le niveau sonore de l'appareil ou de l'application."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Modifier les paramètres de base des logiciels (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. L'écran de votre téléphone est trop sombre. Que cherchez-vous dans les réglages ?",
+    "options": [
+      {
+        "text": "L'activation du mode avion",
+        "isCorrect": false
+      },
+      {
+        "text": "L'intensité lumineuse (Luminosité)",
+        "isCorrect": true
+      },
+      {
+        "text": "Le paramétrage du réseau Wi-Fi",
+        "isCorrect": false
+      },
+      {
+        "text": "La rotation automatique",
+        "isCorrect": false
+      },
+      {
+        "text": "Le mode économie d'énergie",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le réglage de luminosité permet d'adapter l'éclairage de l'écran à votre environnement."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Modifier les paramètres de base des logiciels (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. L'application est en anglais et vous la voulez en français. Que devez-vous changer ?",
+    "options": [
+      {
+        "text": "La langue (Language) dans les paramètres",
+        "isCorrect": true
+      },
+      {
+        "text": "Le fuseau horaire et la date",
+        "isCorrect": false
+      },
+      {
+        "text": "L'image de fond d'écran",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Annuler la dernière action",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les paramètres de langue permettent de basculer l'interface utilisateur vers votre langue maternelle."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Faire appel à l’assistance nécessaire (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Un message d'erreur apparaît. Quelle est la première chose utile à faire ?",
+    "options": [
+      {
+        "text": "Noter le message ou faire une capture d'écran",
+        "isCorrect": true
+      },
+      {
+        "text": "Effectuer un diagnostic via le terminal de commande",
+        "isCorrect": false
+      },
+      {
+        "text": "Débrancher la prise murale immédiatement",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignorer les notifications d'erreur",
+        "isCorrect": false
+      },
+      {
+        "text": "Annuler la dernière action",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'information contenue dans le message d'erreur est la clé pour que l'assistance technique puisse vous aider."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Faire appel à l’assistance nécessaire (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Dans la plupart des logiciels, quelle touche du clavier ouvre l'Aide ?",
+    "options": [
+      {
+        "text": "La barre d'espace",
+        "isCorrect": false
+      },
+      {
+        "text": "La touche de fonction F1",
+        "isCorrect": true
+      },
+      {
+        "text": "Le bouton d'alimentation physique",
+        "isCorrect": false
+      },
+      {
+        "text": "Noter le message d'erreur",
+        "isCorrect": false
+      },
+      {
+        "text": "Prendre une capture d'écran",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "F1 est le standard universel pour ouvrir la documentation d'aide contextuelle."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Faire appel à l’assistance nécessaire (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Votre ordinateur de travail ne s'allume plus. Qui contactez-vous ?",
+    "options": [
+      {
+        "text": "Le service comptabilité",
+        "isCorrect": false
+      },
+      {
+        "text": "Le support informatique (Helpdesk)",
+        "isCorrect": true
+      },
+      {
+        "text": "Les autorités de police",
+        "isCorrect": false
+      },
+      {
+        "text": "Le monitoring des flux via un analyseur",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinstallation des bibliothèques",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Identifier le bon interlocuteur technique permet de résoudre le problème efficacement."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Résoudre des problèmes de routine simples (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Votre souris ne bouge plus. Quelle est une cause probable et simple ?",
+    "options": [
+      {
+        "text": "Elle n'a plus de pile ou est déconnectée",
+        "isCorrect": true
+      },
+      {
+        "text": "Le processeur est en surchauffe",
+        "isCorrect": false
+      },
+      {
+        "text": "La dalle d'affichage est défaillante",
+        "isCorrect": false
+      },
+      {
+        "text": "Sauvegarder et recommencer",
+        "isCorrect": false
+      },
+      {
+        "text": "Redémarrer l'application",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Vérifier l'alimentation (piles, câble) est la première étape du diagnostic matériel de base."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Résoudre des problèmes de routine simples (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Votre ordinateur est très lent et bug. Quelle action simple résout souvent cela ?",
+    "options": [
+      {
+        "text": "Secouer l'unité centrale",
+        "isCorrect": false
+      },
+      {
+        "text": "Procéder à un redémarrage système",
+        "isCorrect": true
+      },
+      {
+        "text": "Appliquer un profil colorimétrique ICC",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le redémarrage remet à zéro la mémoire temporaire (RAM) et corrige de nombreux bugs logiciels."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Résoudre des problèmes de routine simples (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Vous ne pouvez pas imprimer. Que devez-vous vérifier en premier ?",
+    "options": [
+      {
+        "text": "La couleur de la coque de l'imprimante",
+        "isCorrect": false
+      },
+      {
+        "text": "Si elle est sous tension et contient du papier",
+        "isCorrect": true
+      },
+      {
+        "text": "Si l'imprimante est connectée à Facebook",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander à un collègue",
+        "isCorrect": false
+      },
+      {
+        "text": "Le monitoring des flux via un analyseur",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les problèmes physiques simples sont les causes les plus fréquentes de non-impression."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Actualiser ses compétences numériques (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Pourquoi est-il important de continuer à apprendre le numérique ?",
+    "options": [
+      {
+        "text": "Parce que les technologies évoluent sans cesse",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour réduire le temps de veille du moniteur",
+        "isCorrect": false
+      },
+      {
+        "text": "C'est inutile, l'informatique ne change jamais",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      },
+      {
+        "text": "Annuler la dernière action",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le numérique évolue très vite ; se mettre à jour permet de ne pas devenir obsolète."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Actualiser ses compétences numériques (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Si votre logiciel change d'apparence après une mise à jour, que faites-vous ?",
+    "options": [
+      {
+        "text": "Procéder à une réinitialisation d'usine",
+        "isCorrect": false
+      },
+      {
+        "text": "Prendre le temps de repérer les nouveaux menus",
+        "isCorrect": true
+      },
+      {
+        "text": "Ouvrir un ticket d'incident critique",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinstallation des bibliothèques",
+        "isCorrect": false
+      },
+      {
+        "text": "Accéder aux paramètres",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'adaptation est une compétence clé. Les mises à jour changent souvent l'interface pour l'améliorer."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Actualiser ses compétences numériques (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Une 'Mise à jour' est proposée sur votre téléphone. Est-ce bénéfique ?",
+    "options": [
+      {
+        "text": "Oui, cela améliore la sécurité et les fonctions",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, c'est obligatoirement un virus",
+        "isCorrect": false
+      },
+      {
+        "text": "Ça ne sert strictement à rien",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exécution d'un diagnostic via le terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les mises à jour corrigent des failles de sécurité et des bugs."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger ses appareils numériques (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Vous quittez votre bureau pour déjeuner. Que faites-vous de votre ordinateur ?",
+    "options": [
+      {
+        "text": "Le laisser allumé avec les emails visibles",
+        "isCorrect": false
+      },
+      {
+        "text": "Verrouiller la session (écran de verrouillage)",
+        "isCorrect": true
+      },
+      {
+        "text": "Désactiver le pare-feu réseau",
+        "isCorrect": false
+      },
+      {
+        "text": "Redémarrer l'application",
+        "isCorrect": false
+      },
+      {
+        "text": "Prendre une capture d'écran",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Verrouiller l'écran empêche d'autres personnes d'accéder à vos données en votre absence."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger ses appareils numériques (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Est-il prudent de poser une boisson à côté de votre clavier portable ?",
+    "options": [
+      {
+        "text": "Oui, cela facilite l'accès à l'hydratation",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, un déversement peut détruire l'électronique",
+        "isCorrect": true
+      },
+      {
+        "text": "Seulement s'il s'agit de boissons froides",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      },
+      {
+        "text": "L'audit des permissions sur les répertoires",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les liquides sont les ennemis des circuits. La protection physique est une compétence de sécurité."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger ses appareils numériques (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Quel type de mot de passe est le plus robuste ?",
+    "options": [
+      {
+        "text": "Une suite numérique type '1234'",
+        "isCorrect": false
+      },
+      {
+        "text": "Un mélange alphanumérique et caractères spéciaux",
+        "isCorrect": true
+      },
+      {
+        "text": "Votre date de naissance sans espaces",
+        "isCorrect": false
+      },
+      {
+        "text": "Annuler la dernière action",
+        "isCorrect": false
+      },
+      {
+        "text": "Votre nom complet",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La complexité du mot de passe est la première barrière contre l'intrusion."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Fiabilité de l’information et risques (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q1. Tout ce qui est publié sur Internet est-il contractuellement vrai ?",
+    "options": [
+      {
+        "text": "Oui, les algorithmes filtrent le faux",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, il faut rester vigilant et recouper les sources",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, si le site est en première page de recherche",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "L'audit des permissions sur les répertoires",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "N'importe qui peut publier sur Internet. Le sens critique est indispensable."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Fiabilité de l’information et risques (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q2. Passer 10 heures d'affilée devant un écran sans pause est-il sans risque pour la santé ?",
+    "options": [
+      {
+        "text": "Oui, cela permet d'optimiser l'acuité visuelle",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, cela peut causer de la fatigue visuelle et des céphalées",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, car la lumière bleue renforce les muscles oculaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'ergonomie et la santé font partie des compétences numériques de base. Des pauses régulières sont indispensables."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Fiabilité de l’information et risques (Initial)",
+    "niveau": "Initial",
+    "points": 1,
+    "question": "Q3. Pourquoi dit-on que l'usage du numérique a un impact environnemental significatif ?",
+    "options": [
+      {
+        "text": "Parce que les câbles réseau consomment de l'oxygène",
+        "isCorrect": false
+      },
+      {
+        "text": "À cause de la consommation électrique et de l'extraction de métaux rares",
+        "isCorrect": true
+      },
+      {
+        "text": "Parce que le stockage dans le cloud est virtuel et donc polluant",
+        "isCorrect": false
+      },
+      {
+        "text": "Accéder aux paramètres",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La fabrication des appareils et l'énergie nécessaire au fonctionnement des Data Centers ont un coût écologique réel."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Comparer différents contenus en ligne (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Vous trouvez deux horaires différents pour un même magasin sur deux sites. Que faites-vous ?",
+    "options": [
+      {
+        "text": "Choisir l'horaire qui vous arrange le plus",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier la date de mise à jour ou consulter le site officiel",
+        "isCorrect": true
+      },
+      {
+        "text": "Considérer que le magasin est définitivement fermé",
+        "isCorrect": false
+      },
+      {
+        "text": "Ajuster les paramètres de luminosité",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Comparer les sources implique de vérifier la fraîcheur de l'info et l'autorité de l'émetteur."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Comparer différents contenus en ligne (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Pourquoi est-il utile de comparer un produit sur plusieurs sites de vente ?",
+    "options": [
+      {
+        "text": "Pour forcer le navigateur à vider son historique",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour trouver le meilleur rapport prix/services et lire les avis clients",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour augmenter la charge de la batterie du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "Accéder aux paramètres",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La mise en concurrence est essentielle pour éviter les arnaques et obtenir la meilleure offre."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Comparer différents contenus en ligne (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Comment distinguer un résultat naturel d'une publicité dans un moteur de recherche ?",
+    "options": [
+      {
+        "text": "Les publicités sont obligatoirement écrites en majuscules",
+        "isCorrect": false
+      },
+      {
+        "text": "Par la présence de la mention 'Annonce' ou 'Sponsorisé'",
+        "isCorrect": true
+      },
+      {
+        "text": "Les résultats naturels comportent toujours une image HD",
+        "isCorrect": false
+      },
+      {
+        "text": "Accéder aux paramètres",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Savoir identifier le contenu commercial est crucial pour l'objectivité de la recherche."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Enregistrer et restituer des fichiers (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Quel format privilégiez-vous pour envoyer un CV non modifiable ?",
+    "options": [
+      {
+        "text": "Le format de traitement de texte standard (.doc)",
+        "isCorrect": false
+      },
+      {
+        "text": "Le format de document portable (.pdf)",
+        "isCorrect": true
+      },
+      {
+        "text": "Le format d'encodage audio haute fidélité (.mp3)",
+        "isCorrect": false
+      },
+      {
+        "text": "Modifier la taille de la police système",
+        "isCorrect": false
+      },
+      {
+        "text": "Ajuster les paramètres de luminosité",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le PDF fige la mise en page et assure une lecture universelle sans modification possible par le tiers."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Enregistrer et restituer des fichiers (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Quelle extension correspond à un fichier image classique ?",
+    "options": [
+      {
+        "text": "Une extension de type exécutable (.exe)",
+        "isCorrect": false
+      },
+      {
+        "text": "Une extension matricielle type .jpg ou .png",
+        "isCorrect": true
+      },
+      {
+        "text": "Une extension de feuille de calcul (.xls)",
+        "isCorrect": false
+      },
+      {
+        "text": "Redémarrer l'application",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le format JPG/PNG est le standard pour les photographies et illustrations numériques."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Enregistrer et restituer des fichiers (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Par défaut, où se trouve un fichier téléchargé depuis le web ?",
+    "options": [
+      {
+        "text": "Redémarrer l'application",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans le dossier utilisateur nommé 'Téléchargements'",
+        "isCorrect": true
+      },
+      {
+        "text": "Vérifier l'espace disque disponible",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver les mises à jour automatiques",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les navigateurs utilisent un dossier standard pour centraliser les documents entrants."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Consulter ses emails et répondre (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Vous voulez répondre uniquement à l'expéditeur d'un email groupé. Quel bouton utilisez-vous ?",
+    "options": [
+      {
+        "text": "Le bouton de multidiffusion 'Répondre à tous'",
+        "isCorrect": false
+      },
+      {
+        "text": "Le bouton de réponse individuelle 'Répondre'",
+        "isCorrect": true
+      },
+      {
+        "text": "La commande de réexpédition 'Transférer'",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver les mises à jour",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les autorisations du fichier",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Répondre (individuel) évite de spammer les autres destinataires qui étaient en copie."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Consulter ses emails et répondre (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Comment repérer visuellement un nouvel email non lu dans une boîte de réception ?",
+    "options": [
+      {
+        "text": "Le message est affiché en caractères italiques",
+        "isCorrect": false
+      },
+      {
+        "text": "L'objet du message est généralement affiché en gras",
+        "isCorrect": true
+      },
+      {
+        "text": "Le message clignote à une fréquence élevée",
+        "isCorrect": false
+      },
+      {
+        "text": "Une signature électronique",
+        "isCorrect": false
+      },
+      {
+        "text": "Un fichier en brouillon",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le gras est la convention graphique standard pour signaler un flux entrant non consulté."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Consulter ses emails et répondre (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Quelle fonction permet de faire suivre un email à un nouveau contact ?",
+    "options": [
+      {
+        "text": "La fonction de réponse locale",
+        "isCorrect": false
+      },
+      {
+        "text": "La fonction 'Transférer' (ou Forward)",
+        "isCorrect": true
+      },
+      {
+        "text": "La commande de purge définitive",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution unifiée",
+        "isCorrect": false
+      },
+      {
+        "text": "Un lien hypertexte",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Transférer permet de partager l'intégralité de l'historique et des pièces jointes à un tiers."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les réseaux sociaux (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Qui peut voir une photo publiée en mode 'Public' sur un réseau social ?",
+    "options": [
+      {
+        "text": "Uniquement les contacts acceptés dans votre cercle",
+        "isCorrect": false
+      },
+      {
+        "text": "N'importe qui sur le web, même sans compte sur le réseau",
+        "isCorrect": true
+      },
+      {
+        "text": "Seulement les administrateurs de la plateforme",
+        "isCorrect": false
+      },
+      {
+        "text": "Un service de stockage cloud",
+        "isCorrect": false
+      },
+      {
+        "text": "Un système de gestion de fichiers en ligne",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le mode 'Public' rend le contenu indexable par les moteurs de recherche."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les réseaux sociaux (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. À quoi sert le symbole '@' suivi d'un nom dans un commentaire ?",
+    "options": [
+      {
+        "text": "À crypter le nom de la personne citée",
+        "isCorrect": false
+      },
+      {
+        "text": "À 'mentionner' la personne pour qu'elle reçoive une notification",
+        "isCorrect": true
+      },
+      {
+        "text": "À envoyer un email secret à l'utilisateur",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver temporairement l'antivirus",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La mention est un outil d'interpellation directe dans une discussion publique."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les réseaux sociaux (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Que signifie généralement une icône en forme de cloche sur ces sites ?",
+    "options": [
+      {
+        "text": "Le réglage du volume des haut-parleurs",
+        "isCorrect": false
+      },
+      {
+        "text": "L'accès au centre des Notifications (réactions, ajouts)",
+        "isCorrect": true
+      },
+      {
+        "text": "Le bouton de réveil du processeur central",
+        "isCorrect": false
+      },
+      {
+        "text": "Changer le fond d'écran",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La cloche centralise les alertes concernant l'activité de votre compte."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Services administratifs en ligne (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Qu'est-ce que 'FranceConnect' ?",
+    "options": [
+      {
+        "text": "Un nouveau standard de réseau Wi-Fi public",
+        "isCorrect": false
+      },
+      {
+        "text": "Un système d'authentification unique pour les services publics",
+        "isCorrect": true
+      },
+      {
+        "text": "Une application de rencontre pour fonctionnaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Supprimer les fichiers temporaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Redémarrer l'application",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "FranceConnect sécurise et simplifie l'accès aux démarches administratives."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Services administratifs en ligne (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Comment transmettre un justificatif de domicile demandé en ligne ?",
+    "options": [
+      {
+        "text": "L'imprimer et l'envoyer par la poste",
+        "isCorrect": false
+      },
+      {
+        "text": "Scanner/photographier le document et le téléverser (uploader)",
+        "isCorrect": true
+      },
+      {
+        "text": "Apposer le document physique contre l'écran du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver les mises à jour automatiques",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver temporairement l'antivirus",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La dématérialisation repose sur l'échange de fichiers numériques via des formulaires."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Services administratifs en ligne (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Où trouvez-vous vos attestations sur un espace personnel en ligne ?",
+    "options": [
+      {
+        "text": "Dans le cache du navigateur web",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans la rubrique 'Mes documents' ou 'Mes courriers'",
+        "isCorrect": true
+      },
+      {
+        "text": "Dans le panneau de configuration système",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution unifiée",
+        "isCorrect": false
+      },
+      {
+        "text": "Changer le fond d'écran",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les espaces personnels centralisent les documents officiels générés par l'administration."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Modifier du contenu numérique (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Quel outil utilisez-vous pour supprimer les bords inutiles d'une photo ?",
+    "options": [
+      {
+        "text": "L'outil de dessin au pinceau",
+        "isCorrect": false
+      },
+      {
+        "text": "L'outil 'Rogner' (ou Recadrer)",
+        "isCorrect": true
+      },
+      {
+        "text": "Les propriétés du système",
+        "isCorrect": false
+      },
+      {
+        "text": "Changer de réseau Wi-Fi",
+        "isCorrect": false
+      },
+      {
+        "text": "Modifier les paramètres d'affichage",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Rogner permet de redimensionner l'image en éliminant les zones indésirables."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Modifier du contenu numérique (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Comment modifier la couleur d'un titre dans un traitement de texte ?",
+    "options": [
+      {
+        "text": "Appliquer un filtre coloré sur la dalle LCD",
+        "isCorrect": false
+      },
+      {
+        "text": "Sélectionner le texte et changer la 'Couleur de police'",
+        "isCorrect": true
+      },
+      {
+        "text": "Modifier le profil de gestion des couleurs du système",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver l'antivirus temporairement",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La mise en forme de texte est une fonction de base des éditeurs (Word, Docs, etc.)."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Modifier du contenu numérique (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Comment ajouter des points noirs automatiques devant chaque ligne d'une liste ?",
+    "options": [
+      {
+        "text": "Saisir manuellement des tirets à chaque début de ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Sélectionner la liste et cliquer sur 'Liste à puces'",
+        "isCorrect": true
+      },
+      {
+        "text": "Réorganiser les icônes du bureau",
+        "isCorrect": false
+      },
+      {
+        "text": "Débrancher les câbles",
+        "isCorrect": false
+      },
+      {
+        "text": "Je double-clique sur le mot pour le corriger",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les listes à puces automatisent la présentation pour une meilleure lisibilité."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Paramètres de base des logiciels (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Votre navigateur Internet s'ouvre sur une page indésirable. Où allez-vous pour changer cela ?",
+    "options": [
+      {
+        "text": "Dans les paramètres du navigateur, rubrique 'Page d'accueil'",
+        "isCorrect": true
+      },
+      {
+        "text": "Annuler la dernière action",
+        "isCorrect": false
+      },
+      {
+        "text": "Utiliser un autre navigateur",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      },
+      {
+        "text": "Créer un nouveau compte utilisateur",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La configuration de la page d'accueil permet de personnaliser l'accès immédiat à vos outils de travail favoris."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Paramètres de base des logiciels (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Vous ne voulez plus entendre les sons de notifications d'une application. Que réglez-vous ?",
+    "options": [
+      {
+        "text": "La luminosité et le contraste de l'affichage",
+        "isCorrect": false
+      },
+      {
+        "text": "Les paramètres de 'Sons' ou 'Notifications' de l'application",
+        "isCorrect": true
+      },
+      {
+        "text": "Le fuseau horaire du système d'exploitation",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      },
+      {
+        "text": "Ajuster les paramètres de luminosité",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le contrôle des notifications permet de réduire les nuisances sonores sans fermer l'application."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Paramètres de base des logiciels (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. La taille du texte sur votre application est trop petite. Que cherchez-vous ?",
+    "options": [
+      {
+        "text": "Les paramètres d'affichage ou de police (souvent symbole 'Aa')",
+        "isCorrect": true
+      },
+      {
+        "text": "Les paramètres d'économie d'énergie",
+        "isCorrect": false
+      },
+      {
+        "text": "Le bouton de réinitialisation du routeur Wi-Fi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ajuster les paramètres de luminosité",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'accessibilité visuelle se gère via les options d'affichage de l'interface logicielle."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Fermer ou redémarrer un programme (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Quel raccourci clavier (Windows) permet d'accéder au Gestionnaire de tâches pour fermer un logiciel planté ?",
+    "options": [
+      {
+        "text": "Alt + F4",
+        "isCorrect": false
+      },
+      {
+        "text": "Ctrl + Alt + Suppr",
+        "isCorrect": true
+      },
+      {
+        "text": "Windows + L",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver les mises à jour automatiques",
+        "isCorrect": false
+      },
+      {
+        "text": "Modifier la taille de la police système",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le Gestionnaire de tâches permet de forcer l'arrêt de processus qui ne répondent plus au système."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Fermer ou redémarrer un programme (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Pourquoi est-il utile de fermer les applications inutilisées sur un smartphone ?",
+    "options": [
+      {
+        "text": "Pour empêcher le piratage du micro",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour libérer de la mémoire vive (RAM) et économiser la batterie",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour éviter que le téléphone ne change de langue",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulter l'aide en ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver temporairement l'antivirus",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La gestion des tâches en arrière-plan optimise la fluidité globale et l'autonomie du terminal."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Fermer ou redémarrer un programme (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Quelle est la différence entre 'Réduire' une fenêtre et la 'Fermer' ?",
+    "options": [
+      {
+        "text": "'Réduire' désinstalle l'application temporairement",
+        "isCorrect": false
+      },
+      {
+        "text": "'Réduire' garde le programme actif ; 'Fermer' arrête l'exécution",
+        "isCorrect": true
+      },
+      {
+        "text": "Il n'y a aucune différence technique",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      },
+      {
+        "text": "Redémarrer l'application",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Réduire permet de masquer l'interface tout en conservant les travaux en cours dans la mémoire vive."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Rebooter un ordinateur (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Quelle est la méthode correcte pour redémarrer un ordinateur ?",
+    "options": [
+      {
+        "text": "Débrancher le cordon d'alimentation",
+        "isCorrect": false
+      },
+      {
+        "text": "Cliquer sur 'Démarrer' puis choisir la commande 'Redémarrer'",
+        "isCorrect": true
+      },
+      {
+        "text": "Attendre l'épuisement total de la batterie",
+        "isCorrect": false
+      },
+      {
+        "text": "Vider le dossier de téléchargements",
+        "isCorrect": false
+      },
+      {
+        "text": "Utiliser un autre navigateur web",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le redémarrage par l'OS permet au système de fermer proprement tous les fichiers ouverts."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Rebooter un ordinateur (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Si la souris et le clavier sont bloqués, comment forcer le redémarrage ?",
+    "options": [
+      {
+        "text": "En criant sur l'ordinateur",
+        "isCorrect": false
+      },
+      {
+        "text": "En maintenant le bouton d'alimentation enfoncé plusieurs secondes",
+        "isCorrect": true
+      },
+      {
+        "text": "En versant de l'eau déminéralisée sur les circuits",
+        "isCorrect": false
+      },
+      {
+        "text": "Modifier la taille de la police système",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver temporairement l'antivirus",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'arrêt forcé (Hard reboot) est la procédure d'urgence en cas de gel total du système d'exploitation."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Rebooter un ordinateur (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Quelle est la différence entre 'Mettre en veille' et 'Redémarrer' ?",
+    "options": [
+      {
+        "text": "La veille garde les fichiers ouverts ; le redémarrage vide la mémoire",
+        "isCorrect": true
+      },
+      {
+        "text": "C'est strictement la même opération logicielle",
+        "isCorrect": false
+      },
+      {
+        "text": "Le redémarrage est plus protecteur pour l'écran",
+        "isCorrect": false
+      },
+      {
+        "text": "Accéder aux paramètres",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La mise en veille préserve l'état de session pour une reprise rapide, le redémarrage assainit le système."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Installer une mise à jour (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Quelle précaution prendre avant d'installer une mise à jour sur smartphone ?",
+    "options": [
+      {
+        "text": "Mettre le téléphone au congélateur pour éviter la surchauffe",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier la batterie (ou brancher) et la stabilité de la connexion Wi-Fi",
+        "isCorrect": true
+      },
+      {
+        "text": "Supprimer toutes les photos de la galerie",
+        "isCorrect": false
+      },
+      {
+        "text": "Modifier les paramètres d'affichage",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Une coupure d'énergie pendant une mise à jour peut corrompre le micrologiciel de l'appareil."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Installer une mise à jour (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Où se trouve l'option pour vérifier les mises à jour sur Windows ?",
+    "options": [
+      {
+        "text": "Dans le logiciel de dessin Paint",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans Paramètres > Mise à jour et sécurité (Windows Update)",
+        "isCorrect": true
+      },
+      {
+        "text": "Dans le dossier 'Corbeille'",
+        "isCorrect": false
+      },
+      {
+        "text": "Supprimer les fichiers temporaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Accéder aux paramètres",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le centre de mise à jour centralise les correctifs de sécurité et les évolutions de l'OS."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Installer une mise à jour (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Que faire en premier si une application ne fonctionne plus correctement ?",
+    "options": [
+      {
+        "text": "Racheter un nouveau terminal mobile",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier dans le Store si une mise à jour corrective est disponible",
+        "isCorrect": true
+      },
+      {
+        "text": "Changer la coque physique de protection",
+        "isCorrect": false
+      },
+      {
+        "text": "Redémarrer l'application",
+        "isCorrect": false
+      },
+      {
+        "text": "Accéder aux paramètres",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les mises à jour logicielles résolvent la majorité des instabilités et des bugs identifiés."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protection des appareils (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Un contact sollicite votre mot de passe pour 'vérifier votre compte'. Que faites-vous ?",
+    "options": [
+      {
+        "text": "Je lui donne car la confiance est importante",
+        "isCorrect": false
+      },
+      {
+        "text": "Je refuse : un mot de passe ne se partage jamais",
+        "isCorrect": true
+      },
+      {
+        "text": "Je lui envoie un scan de ma signature",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver temporairement l'antivirus",
+        "isCorrect": false
+      },
+      {
+        "text": "Votre empreinte digitale uniquement",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La confidentialité du mot de passe est la règle d'or ; aucun service sérieux ne vous le demandera par message."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protection des appareils (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Quelle habitude protège vos données en cas de vol de smartphone ?",
+    "options": [
+      {
+        "text": "Utiliser une coque de couleur vive",
+        "isCorrect": false
+      },
+      {
+        "text": "Activer le verrouillage d'écran (PIN, biométrie ou schéma)",
+        "isCorrect": true
+      },
+      {
+        "text": "Désactiver systématiquement le Bluetooth",
+        "isCorrect": false
+      },
+      {
+        "text": "Ajuster les paramètres de luminosité",
+        "isCorrect": false
+      },
+      {
+        "text": "Redémarrer l'appareil",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le verrouillage d'écran est le premier rempart contre l'exploitation de vos données personnelles."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protection des appareils (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Pourquoi faut-il éviter d'utiliser '123456' comme mot de passe ?",
+    "options": [
+      {
+        "text": "C'est trop complexe à mémoriser pour l'humain",
+        "isCorrect": false
+      },
+      {
+        "text": "C'est l'un des premiers mots de passe testés par les pirates",
+        "isCorrect": true
+      },
+      {
+        "text": "L'ordinateur refuse systématiquement les suites de chiffres",
+        "isCorrect": false
+      },
+      {
+        "text": "Utiliser un autre navigateur web",
+        "isCorrect": false
+      },
+      {
+        "text": "Votre adresse email uniquement",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Un mot de passe trop commun (attaque par dictionnaire) offre une sécurité quasi nulle."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Sites et emails frauduleux (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q1. Vous recevez un email alarmiste de votre 'banque' avec des fautes. C'est sûrement :",
+    "options": [
+      {
+        "text": "Une nouvelle méthode de communication informelle",
+        "isCorrect": false
+      },
+      {
+        "text": "Une tentative de Phishing (Hameçonnage)",
+        "isCorrect": true
+      },
+      {
+        "text": "Une erreur technique interne de la banque",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver les mises à jour automatiques",
+        "isCorrect": false
+      },
+      {
+        "text": "Une signature électronique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le Phishing utilise l'urgence et la peur pour vous inciter à cliquer sur un lien frauduleux."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Sites et emails frauduleux (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q2. Avant de payer en ligne, que vérifiez-vous dans la barre d'adresse ?",
+    "options": [
+      {
+        "text": "Si le logo du site est en haute définition",
+        "isCorrect": false
+      },
+      {
+        "text": "La présence du protocole 'https://' et du cadenas fermé",
+        "isCorrect": true
+      },
+      {
+        "text": "Si le texte du site est écrit en bleu",
+        "isCorrect": false
+      },
+      {
+        "text": "Accéder aux paramètres",
+        "isCorrect": false
+      },
+      {
+        "text": "Vider le dossier de téléchargements",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le protocole HTTPS garantit que vos coordonnées bancaires sont chiffrées durant le transfert."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Sites et emails frauduleux (Basique)",
+    "niveau": "Basique",
+    "points": 2,
+    "question": "Q3. Un site annonce que vous avez gagné un iPhone gratuitement. Que faites-vous ?",
+    "options": [
+      {
+        "text": "Je saisis mes données pour ne pas rater l'offre",
+        "isCorrect": false
+      },
+      {
+        "text": "Je ferme la page, c'est une arnaque par ingénierie sociale",
+        "isCorrect": true
+      },
+      {
+        "text": "J'appelle toute ma famille pour partager l'info",
+        "isCorrect": false
+      },
+      {
+        "text": "Redémarrer l'application",
+        "isCorrect": false
+      },
+      {
+        "text": "Créer un nouveau compte utilisateur",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Une promesse trop belle pour être vraie sur Internet cache toujours une fraude au vol de données."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Filtrer et évaluer l’information (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Pour rechercher une expression exacte sur Google, qu'utilisez-vous ?",
+    "options": [
+      {
+        "text": "Les parenthèses de groupement",
+        "isCorrect": false
+      },
+      {
+        "text": "Les guillemets \" ... \"",
+        "isCorrect": true
+      },
+      {
+        "text": "Les crochets d'indexation",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation de l'indexation par balisage sémantique",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les guillemets forcent le moteur à chercher les mots dans cet ordre précis, réduisant le bruit documentaire."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Filtrer et évaluer l’information (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Quel élément permet de juger de la fiabilité d'un article de blog ?",
+    "options": [
+      {
+        "text": "La présence de photos haute résolution",
+        "isCorrect": false
+      },
+      {
+        "text": "La date de mise à jour et la mention des sources",
+        "isCorrect": true
+      },
+      {
+        "text": "Le nombre de 'J'aime' sur les réseaux",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un serveur mandataire (proxy)",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'autorité opérationnelle se mesure par la traçabilité des sources et la fraîcheur de l'information."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Filtrer et évaluer l’information (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Comment exclure un terme spécifique de vos résultats (ex: gâteau sans chocolat) ?",
+    "options": [
+      {
+        "text": "En écrivant 'PAS chocolat' en fin de requête",
+        "isCorrect": false
+      },
+      {
+        "text": "En utilisant le signe moins devant le mot (gâteau -chocolat)",
+        "isCorrect": true
+      },
+      {
+        "text": "En plaçant le mot à exclure entre crochets",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation de l'indexation par balisage sémantique",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'opérateur '-' est une technique de filtrage essentielle pour affiner les résultats et éliminer le bruit documentaire."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Caches, cookies et bookmarks (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. À quoi servent les 'Cookies' lors de votre navigation ?",
+    "options": [
+      {
+        "text": "À nettoyer les fichiers temporaires du disque dur",
+        "isCorrect": false
+      },
+      {
+        "text": "À stocker des infos de navigation (préférences, connexion) sur votre poste",
+        "isCorrect": true
+      },
+      {
+        "text": "À augmenter la vitesse de calcul du processeur",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un serveur mandataire (proxy)",
+        "isCorrect": false
+      },
+      {
+        "text": "Le partitionnement logique de l'unité de stockage",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les cookies sont des traceurs qui permettent aux sites de se 'souvenir' de vous pour faciliter votre expérience utilisateur."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Caches, cookies et bookmarks (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Pourquoi vider le 'Cache' du navigateur résout-il certains problèmes d'affichage ?",
+    "options": [
+      {
+        "text": "Cela supprime les scripts malveillants du système",
+        "isCorrect": false
+      },
+      {
+        "text": "Cela force le navigateur à télécharger la version à jour du site",
+        "isCorrect": true
+      },
+      {
+        "text": "Cela permet de modifier votre adresse IP publique",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation de l'indexation par balisage sémantique",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le cache stocke des éléments statiques pour charger plus vite ; le vider permet de voir les modifications récentes du serveur."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Caches, cookies et bookmarks (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Quelle est la différence entre un 'Historique' et un 'Favori' ?",
+    "options": [
+      {
+        "text": "L'historique est manuel, le favori est automatique",
+        "isCorrect": false
+      },
+      {
+        "text": "L'historique est passif, le favori est une sauvegarde choisie par l'usager",
+        "isCorrect": true
+      },
+      {
+        "text": "L'historique s'efface toutes les 24 heures par défaut",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un serveur mandataire (proxy)",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation de l'indexation par balisage sémantique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les favoris (ou marque-pages) permettent d'organiser sa navigation sur le long terme."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Classer régulièrement ses données (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Quel nommage facilite le tri chronologique automatique des fichiers ?",
+    "options": [
+      {
+        "text": "Rapport_V1_2024.pdf",
+        "isCorrect": false
+      },
+      {
+        "text": "2024-05-20_Rapport.pdf (format AAAA-MM-JJ)",
+        "isCorrect": true
+      },
+      {
+        "text": "Mai_2024_Rapport.pdf",
+        "isCorrect": false
+      },
+      {
+        "text": "Le partitionnement logique de l'unité de stockage",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exécution d'un script de nettoyage de métadonnées",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'ordre numérique inversé assure un classement parfait par le système d'exploitation."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Classer régulièrement ses données (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Qu'est-ce qu'une arborescence de dossiers efficace ?",
+    "options": [
+      {
+        "text": "Mettre l'intégralité des fichiers sur le Bureau",
+        "isCorrect": false
+      },
+      {
+        "text": "Une structure logique (ex: Année > Projet > Type) sans doublons",
+        "isCorrect": true
+      },
+      {
+        "text": "Un dossier unique nommé 'Vrac' pour gagner du temps",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation de l'indexation par balisage sémantique",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Une bonne hiérarchie permet de retrouver n'importe quel fichier sans utiliser de moteur de recherche interne."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Classer régulièrement ses données (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Quelle est la différence entre 'Archiver' et 'Sauvegarder' ?",
+    "options": [
+      {
+        "text": "C'est exactement la même procédure informatique",
+        "isCorrect": false
+      },
+      {
+        "text": "La sauvegarde protège d'un incident, l'archivage stocke l'historique froid",
+        "isCorrect": true
+      },
+      {
+        "text": "L'archivage consiste uniquement à compresser les fichiers",
+        "isCorrect": false
+      },
+      {
+        "text": "Le partitionnement logique de l'unité de stockage",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "On sauvegarde pour pouvoir restaurer en cas de panne ; on archive pour libérer l'espace des données terminées."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Gérer, classer et trier ses emails (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Comment classer automatiquement les emails d'un client dans un dossier ?",
+    "options": [
+      {
+        "text": "En utilisant des 'Règles' ou 'Filtres' de messagerie",
+        "isCorrect": true
+      },
+      {
+        "text": "En effectuant un transfert manuel chaque jour",
+        "isCorrect": false
+      },
+      {
+        "text": "En demandant au serveur DNS de réorganiser les flux",
+        "isCorrect": false
+      },
+      {
+        "text": "La gestion des droits d'accès via un annuaire LDAP",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'automatisation via des filtres est indispensable pour traiter de gros volumes d'informations."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Gérer, classer et trier ses emails (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Quelle est la règle pour envoyer un email à une liste de contacts masqués ?",
+    "options": [
+      {
+        "text": "Utiliser le champ Cc (Copie Carbone)",
+        "isCorrect": false
+      },
+      {
+        "text": "Utiliser le champ Cci / Bcc (Copie Cachée)",
+        "isCorrect": true
+      },
+      {
+        "text": "Ajouter toutes les adresses dans le corps du texte",
+        "isCorrect": false
+      },
+      {
+        "text": "L'implémentation d'une couche de chiffrement de bout en bout",
+        "isCorrect": false
+      },
+      {
+        "text": "La mise en place d'un protocole de transfert sécurisé (SFTP)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le champ Cci respecte la confidentialité des données personnelles (RGPD)."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Gérer, classer et trier ses emails (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Que contient une réponse automatique d'absence professionnelle efficace ?",
+    "options": [
+      {
+        "text": "Une phrase simple : 'Je ne suis pas disponible'",
+        "isCorrect": false
+      },
+      {
+        "text": "La date de retour et les coordonnées d'un contact alternatif",
+        "isCorrect": true
+      },
+      {
+        "text": "Votre identifiant et mot de passe de secours",
+        "isCorrect": false
+      },
+      {
+        "text": "La synchronisation des jetons d'authentification asynchrones",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Elle assure la continuité de l'activité en orientant l'expéditeur vers une solution pendant votre absence."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Partager un fichier via le Cloud (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Dans Google Drive ou OneDrive, que permet le droit 'Éditeur' ?",
+    "options": [
+      {
+        "text": "Seulement la visualisation des fichiers",
+        "isCorrect": false
+      },
+      {
+        "text": "La modification, l'ajout et la suppression de documents",
+        "isCorrect": true
+      },
+      {
+        "text": "Le contrôle total de l'ordinateur du propriétaire",
+        "isCorrect": false
+      },
+      {
+        "text": "La gestion des droits d'accès via un annuaire LDAP",
+        "isCorrect": false
+      },
+      {
+        "text": "L'implémentation d'une couche de chiffrement de bout en bout",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le droit d'édition est le niveau de collaboration active dans le cloud."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Partager un fichier via le Cloud (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Pourquoi envoyer un lien Cloud plutôt qu'une pièce jointe de 2 Go ?",
+    "options": [
+      {
+        "text": "Car les emails classiques bloquent les fichiers volumineux",
+        "isCorrect": true
+      },
+      {
+        "text": "Parce que le lien Cloud est automatiquement crypté en AES-256",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour forcer le destinataire à s'abonner au service",
+        "isCorrect": false
+      },
+      {
+        "text": "La mise en place d'un protocole de transfert sécurisé (SFTP)",
+        "isCorrect": false
+      },
+      {
+        "text": "La synchronisation des jetons d'authentification asynchrones",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La plupart des serveurs SMTP limitent les pièces jointes à 20-25 Mo."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Partager un fichier via le Cloud (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Que se passe-t-il lors de la co-édition simultanée d'un document en ligne ?",
+    "options": [
+      {
+        "text": "Le fichier se verrouille pour le second utilisateur",
+        "isCorrect": false
+      },
+      {
+        "text": "Les modifications de chacun apparaissent en temps réel",
+        "isCorrect": true
+      },
+      {
+        "text": "Le document crée une copie différente pour chaque personne",
+        "isCorrect": false
+      },
+      {
+        "text": "La mise en place d'un protocole de transfert sécurisé (SFTP)",
+        "isCorrect": false
+      },
+      {
+        "text": "L'implémentation d'une couche de chiffrement de bout en bout",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La co-édition synchrone est la fonctionnalité phare des suites collaboratives modernes."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Tableur et traitement de texte (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Sur Excel, quelle formule additionne les cellules A1 à A10 ?",
+    "options": [
+      {
+        "text": "=A1+A10",
+        "isCorrect": false
+      },
+      {
+        "text": "=SOMME(A1:A10)",
+        "isCorrect": true
+      },
+      {
+        "text": "=ADDITION(A1;A10)",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exportation des données vers un format JSON structuré",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ajustement du bitrate pour la compression de flux",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La fonction SOMME avec la plage ':' est la base du calcul sur tableur."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Tableur et traitement de texte (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Pourquoi utiliser les 'Styles' (Titre 1, Titre 2) dans Word ?",
+    "options": [
+      {
+        "text": "Pour modifier la couleur de l'interface logicielle",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour générer automatiquement un sommaire et uniformiser le document",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour protéger le fichier contre la lecture non autorisée",
+        "isCorrect": false
+      },
+      {
+        "text": "Le paramétrage des balises de structuration DOM",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation du rendu vectoriel sur le moteur graphique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les styles permettent une gestion sémantique et structurelle des documents longs."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Tableur et traitement de texte (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Dans un tableur, à quoi sert le symbole $ dans une référence ($A$1) ?",
+    "options": [
+      {
+        "text": "À formater la cellule en monnaie Dollar",
+        "isCorrect": false
+      },
+      {
+        "text": "À figer la cellule pour qu'elle ne change pas lors de la copie",
+        "isCorrect": true
+      },
+      {
+        "text": "À indiquer une erreur de calcul prioritaire",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ajustement du bitrate pour la compression de flux",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "On appelle cela une référence absolue, par opposition aux références relatives."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Notions de création de page web (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Qu'est-ce que le HTML ?",
+    "options": [
+      {
+        "text": "Un protocole de sécurisation des serveurs DNS",
+        "isCorrect": false
+      },
+      {
+        "text": "Le langage de balisage standard pour structurer les pages web",
+        "isCorrect": true
+      },
+      {
+        "text": "Un logiciel d'édition d'images vectorielles",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ajustement du bitrate pour la compression de flux",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "HTML structure le squelette d'une page (titres, paragraphes, liens) avant sa mise en forme."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Notions de création de page web (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Qu'est-ce qu'un CMS (ex: WordPress, Joomla) ?",
+    "options": [
+      {
+        "text": "Un système de détection de virus par signature",
+        "isCorrect": false
+      },
+      {
+        "text": "Un système permettant de créer un site sans coder",
+        "isCorrect": true
+      },
+      {
+        "text": "Un protocole de routage pour réseaux locaux",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation du rendu vectoriel sur le moteur graphique",
+        "isCorrect": false
+      },
+      {
+        "text": "Le paramétrage des balises de structuration DOM",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le Content Management System (CMS) sépare la gestion du contenu de la partie technique."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Notions de création de page web (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Que désigne le terme 'Lien hypertexte' ?",
+    "options": [
+      {
+        "text": "Une image à très haute résolution",
+        "isCorrect": false
+      },
+      {
+        "text": "Un élément cliquable permettant de naviguer vers une autre ressource",
+        "isCorrect": true
+      },
+      {
+        "text": "Un protocole de chiffrement des données wifi",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exportation des données vers un format JSON structuré",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ajustement du bitrate pour la compression de flux",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "C'est le fondement même du Web, permettant de lier les documents entre eux."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Se connecter à Internet (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Sans Wi-Fi, comment connecter un PC à Internet via un smartphone ?",
+    "options": [
+      {
+        "text": "En utilisant le 'Partage de connexion' (Tethering)",
+        "isCorrect": true
+      },
+      {
+        "text": "En rapprochant physiquement les deux appareils",
+        "isCorrect": false
+      },
+      {
+        "text": "En désactivant le pare-feu des deux terminaux",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinitialisation de la pile TCP/IP du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exécution d'un diagnostic matériel via le BIOS/UEFI",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le smartphone agit alors comme un modem pour l'ordinateur, via USB, Bluetooth ou Wi-Fi hotspot."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Se connecter à Internet (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Quelle distinction technique fondamentale existe-t-il entre le Wi-Fi et l'Ethernet ?",
+    "options": [
+      {
+        "text": "Le Wi-Fi offre un débit systématiquement supérieur à la fibre",
+        "isCorrect": false
+      },
+      {
+        "text": "L'Ethernet assure une stabilité supérieure et une latence réduite",
+        "isCorrect": true
+      },
+      {
+        "text": "L'Ethernet est un protocole analogique désormais obsolète",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinitialisation de la pile TCP/IP du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "Le monitoring des flux via un analyseur de paquets",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Une connexion filaire (RJ45) élimine les interférences radio, offrant des performances constantes."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Se connecter à Internet (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Votre PC ne détecte pas un réseau Wi-Fi actif. Quelle est la première manipulation logique ?",
+    "options": [
+      {
+        "text": "Procéder à une réinstallation complète de l'OS",
+        "isCorrect": false
+      },
+      {
+        "text": "Désactiver puis réactiver l'interface réseau (Carte Wi-Fi)",
+        "isCorrect": true
+      },
+      {
+        "text": "Remplacer physiquement l'unité de stockage SSD",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinitialisation de la pile TCP/IP du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exécution d'un diagnostic matériel via le BIOS/UEFI",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Relancer l'interface permet souvent de corriger un bug de détection logicielle du scan réseau."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Matériel et problèmes fréquents (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Dans quel scénario l'usage du 'Gestionnaire des tâches' est-il indispensable ?",
+    "options": [
+      {
+        "text": "Pour planifier des rendez-vous dans l'agenda",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour identifier et forcer l'arrêt d'un processus saturant la RAM",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour configurer la topologie logique du réseau local",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exécution d'un diagnostic matériel via le BIOS/UEFI",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinstallation des bibliothèques système corrompues",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Il permet de surveiller l'utilisation des ressources (CPU, RAM, Disque) en temps réel."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Matériel et problèmes fréquents (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Un écran externe HDMI n'est pas détecté. Quel raccourci (Windows) gère l'affichage ?",
+    "options": [
+      {
+        "text": "Touche Windows + L",
+        "isCorrect": false
+      },
+      {
+        "text": "Touche Windows + P",
+        "isCorrect": true
+      },
+      {
+        "text": "Touche Ctrl + Alt + Suppr",
+        "isCorrect": false
+      },
+      {
+        "text": "Vérifier les mises à jour",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinitialisation de la pile TCP/IP du terminal",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Win+P ouvre le menu de projection (Étendre, Dupliquer) pour configurer le multi-écran."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Matériel et problèmes fréquents (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Qu'est-ce qu'un 'Pilote' (ou Driver) informatique ?",
+    "options": [
+      {
+        "text": "Un technicien spécialisé dans la maintenance réseau",
+        "isCorrect": false
+      },
+      {
+        "text": "Un programme permettant à l'OS d'interagir avec un matériel",
+        "isCorrect": true
+      },
+      {
+        "text": "Un algorithme de routage des paquets IP",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exécution d'un diagnostic matériel via le BIOS/UEFI",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinstallation des bibliothèques système corrompues",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le pilote sert de traducteur entre le système d'exploitation et les périphériques (imprimante, carte graphique)."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Sécurité et mots de passe (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Quelle est la différence entre un antivirus et un pare-feu (Firewall) ?",
+    "options": [
+      {
+        "text": "C'est la même fonction sous deux appellations différentes",
+        "isCorrect": false
+      },
+      {
+        "text": "L'antivirus traite les fichiers ; le pare-feu filtre les flux réseau",
+        "isCorrect": true
+      },
+      {
+        "text": "Le pare-feu sert uniquement à refroidir le processeur",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'un système de détection d'intrusion (IDS)",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'antivirus analyse le contenu local, le pare-feu surveille les 'portes' d'entrée du réseau."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Sécurité et mots de passe (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Qu'est-ce que l'authentification multi-facteurs (MFA) ?",
+    "options": [
+      {
+        "text": "L'utilisation de plusieurs mots de passe identiques",
+        "isCorrect": false
+      },
+      {
+        "text": "Une validation par deux preuves distinctes (ex: mot de passe + SMS)",
+        "isCorrect": true
+      },
+      {
+        "text": "Une connexion simultanée sur deux réseaux différents",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un tunnel VPN avec chiffrement AES-256",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La MFA ajoute une couche de protection : le vol du mot de passe seul ne suffit pas à l'attaquant."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Sécurité et mots de passe (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Pourquoi utiliser un gestionnaire de mots de passe ?",
+    "options": [
+      {
+        "text": "Pour pouvoir utiliser un mot de passe simple partout",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour stocker des clés complexes et uniques par service",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour partager ses accès plus facilement avec des collègues",
+        "isCorrect": false
+      },
+      {
+        "text": "L'audit des permissions sur les répertoires racines",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Il permet de respecter les bonnes pratiques sans avoir à mémoriser des dizaines de chaînes complexes."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger son identité numérique (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q1. Sur un compte social, à quoi sert le réglage 'Visibilité du profil' ?",
+    "options": [
+      {
+        "text": "À ajuster le contraste de la photo de couverture",
+        "isCorrect": false
+      },
+      {
+        "text": "À définir qui peut accéder à vos données personnelles",
+        "isCorrect": true
+      },
+      {
+        "text": "À augmenter la résolution d'affichage du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "L'audit des permissions sur les répertoires racines",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'un système de détection d'intrusion (IDS)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Maîtriser sa visibilité est la base de la protection de la vie privée en ligne."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger son identité numérique (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q2. Quelle est la fonction principale du RGPD ?",
+    "options": [
+      {
+        "text": "Garantir la gratuité totale du stockage cloud",
+        "isCorrect": false
+      },
+      {
+        "text": "Encadrer le traitement des données et garantir des droits aux usagers",
+        "isCorrect": true
+      },
+      {
+        "text": "Interdire les publicités sur les sites institutionnels",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un tunnel VPN avec chiffrement AES-256",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le Règlement Général sur la Protection des Données impose des devoirs stricts aux entreprises (accès, oubli, rectification)."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger son identité numérique (Opérationnel)",
+    "niveau": "Opérationnel",
+    "points": 3,
+    "question": "Q3. Sur un PC public, quelle fonction du navigateur évite de laisser des traces ?",
+    "options": [
+      {
+        "text": "Le mode 'Navigation privée' (ou Incognito)",
+        "isCorrect": true
+      },
+      {
+        "text": "La réduction de la luminosité de l'écran",
+        "isCorrect": false
+      },
+      {
+        "text": "Le blocage des fenêtres contextuelles",
+        "isCorrect": false
+      },
+      {
+        "text": "L'analyse comportementale des processus suspects",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Elle empêche le stockage local de l'historique, des cookies et des données de formulaires."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Évaluer la crédibilité de l’information (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Quel indicateur technique renforce l'autorité d'un domaine web ?",
+    "options": [
+      {
+        "text": "Le recours à un design moderne et réactif",
+        "isCorrect": false
+      },
+      {
+        "text": "L'extension (.gov, .edu) et la qualité des liens entrants (backlinks)",
+        "isCorrect": true
+      },
+      {
+        "text": "La présence d'une certification publicitaire Google",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation de l'indexation par balisage sémantique",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'autorité se mesure par la reconnaissance par les pairs (liens) et la nature institutionnelle du domaine."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Évaluer la crédibilité de l’information (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Qu'est-ce que le 'biais de confirmation' dans une veille stratégique ?",
+    "options": [
+      {
+        "text": "Un algorithme de filtrage imposé par les FAI",
+        "isCorrect": false
+      },
+      {
+        "text": "La tendance à privilégier les infos confortant nos opinions",
+        "isCorrect": true
+      },
+      {
+        "text": "Une erreur de protocole HTTP type 404",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un serveur mandataire (proxy)",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Un expert doit lutter contre ce biais pour garantir une analyse neutre et objective des faits."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Évaluer la crédibilité de l’information (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Quelle méthode vérifie l'origine d'une image suspectée de détournement ?",
+    "options": [
+      {
+        "text": "Effectuer une analyse granulaire des pixels",
+        "isCorrect": false
+      },
+      {
+        "text": "Utiliser un outil de recherche inversée (ex: Google Lens, TinEye)",
+        "isCorrect": true
+      },
+      {
+        "text": "Vérifier la date de modification dans les propriétés locales",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation de l'indexation par balisage sémantique",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La recherche inversée permet de retrouver la première occurrence d'un média et son contexte initial."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Établir la source des informations (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Quelle est la distinction entre source primaire et source secondaire ?",
+    "options": [
+      {
+        "text": "La source primaire est payante, la secondaire gratuite",
+        "isCorrect": false
+      },
+      {
+        "text": "La primaire est le document original ; la secondaire est une interprétation",
+        "isCorrect": true
+      },
+      {
+        "text": "La primaire est le premier résultat d'un moteur de recherche",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation de l'indexation par balisage sémantique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Remonter à la source primaire est crucial pour éviter les distorsions d'analyse ou les erreurs de traduction."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Établir la source des informations (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Comment identifier le propriétaire d'un domaine sans mentions légales ?",
+    "options": [
+      {
+        "text": "En contactant l'hébergeur physique du serveur",
+        "isCorrect": false
+      },
+      {
+        "text": "En interrogeant la base de données via le protocole Whois",
+        "isCorrect": true
+      },
+      {
+        "text": "Il est techniquement impossible de lever cet anonymat",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un serveur mandataire (proxy)",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exécution d'un script de nettoyage de métadonnées",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le service Whois permet de consulter les registres d'immatriculation des noms de domaine."
+  },
+  {
+    "domaine": "DOMAINE 1 : INFORMATIONS ET DONNÉES",
+    "competence": "Établir la source des informations (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Dans le milieu académique, quelle est la fonction du DOI ?",
+    "options": [
+      {
+        "text": "Fixer le prix de vente d'un actif numérique",
+        "isCorrect": false
+      },
+      {
+        "text": "Fournir un lien permanent et unique pour tracer un document",
+        "isCorrect": true
+      },
+      {
+        "text": "Traduire automatiquement le contenu textuel d'un PDF",
+        "isCorrect": false
+      },
+      {
+        "text": "La vérification de l'intégrité via un hash MD5",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation de l'indexation par balisage sémantique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Contrairement à une URL classique qui peut devenir 'morte', le DOI assure la pérennité de l'accès à la ressource."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Créer et gérer son identité numérique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Qu'est-ce que le 'Personal Branding' professionnel ?",
+    "options": [
+      {
+        "text": "L'usage systématique du logo employeur sur ses profils",
+        "isCorrect": false
+      },
+      {
+        "text": "La gestion stratégique de son image et de ses compétences comme une marque",
+        "isCorrect": true
+      },
+      {
+        "text": "La vente de produits dérivés sous son propre nom",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      },
+      {
+        "text": "La gestion des droits d'accès via un annuaire LDAP",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Il s'agit de maîtriser son e-réputation pour valoriser son expertise et favoriser son employabilité."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Créer et gérer son identité numérique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Quel recours européen permet de traiter des données préjudiciables indexées par un moteur ?",
+    "options": [
+      {
+        "text": "Demander l'application du 'Droit à l'oubli' (déréférencement)",
+        "isCorrect": true
+      },
+      {
+        "text": "Saisir les autorités fédérales américaines",
+        "isCorrect": false
+      },
+      {
+        "text": "Aucun, la persistance des données web est irréversible",
+        "isCorrect": false
+      },
+      {
+        "text": "La mise en place d'un protocole sécurisé (SFTP)",
+        "isCorrect": false
+      },
+      {
+        "text": "L'implémentation d'une couche de chiffrement de bout en bout",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le RGPD permet d'exiger la suppression des liens pointant vers des infos obsolètes ou attentatoires à la vie privée."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Créer et gérer son identité numérique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Pourquoi maintenir une étanchéité entre profils personnels et professionnels ?",
+    "options": [
+      {
+        "text": "Pour limiter les risques d'usurpation par ingénierie sociale",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour contrôler le contexte de diffusion et protéger sa sphère privée",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour augmenter artificiellement sa base d'abonnés",
+        "isCorrect": false
+      },
+      {
+        "text": "La synchronisation des jetons d'authentification asynchrones",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La segmentation permet d'adapter son discours aux audiences et d'éviter les interférences néfastes entre vie privée et carrière."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les services numériques (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. À quoi sert un certificat numérique (ou clé électronique) dans les échanges administratifs ?",
+    "options": [
+      {
+        "text": "À accélérer le traitement des impôts locaux",
+        "isCorrect": false
+      },
+      {
+        "text": "À signer des documents avec valeur légale et garantir l'intégrité du fichier",
+        "isCorrect": true
+      },
+      {
+        "text": "À modifier le design des formulaires administratifs PDF",
+        "isCorrect": false
+      },
+      {
+        "text": "La synchronisation des jetons d'authentification asynchrones",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La signature électronique qualifiée est le pilier des transactions dématérialisées de haut niveau."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les services numériques (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Qu'est-ce que l'interopérabilité entre deux services numériques ?",
+    "options": [
+      {
+        "text": "Le fait qu'ils partagent la même charte graphique",
+        "isCorrect": false
+      },
+      {
+        "text": "La capacité de systèmes hétérogènes à échanger des données sans intervention humaine (ex: API)",
+        "isCorrect": true
+      },
+      {
+        "text": "L'obligation d'utiliser le même mot de passe sur tous les services",
+        "isCorrect": false
+      },
+      {
+        "text": "La gestion des droits d'accès via un annuaire LDAP",
+        "isCorrect": false
+      },
+      {
+        "text": "L'implémentation d'une couche de chiffrement de bout en bout",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'interopérabilité permet d'automatiser les flux de travail en connectant des outils différents (ex: CRM vers Comptabilité)."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les services numériques (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Dans le cadre de la santé numérique, qui est légalement propriétaire des données médicales ?",
+    "options": [
+      {
+        "text": "L'établissement de santé qui héberge le dossier",
+        "isCorrect": false
+      },
+      {
+        "text": "Le patient lui-même (droit de contrôle et de portabilité)",
+        "isCorrect": true
+      },
+      {
+        "text": "L'éditeur du logiciel de gestion médicale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un tunnel VPN avec chiffrement AES-256",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'usager dispose d'un droit souverain sur ses données sensibles, renforcé par le RGPD."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Adapter les stratégies de communication (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Qu'est-ce qu'une communication 'Omnicanale' ?",
+    "options": [
+      {
+        "text": "Une campagne diffusée sur un canal unique à forte audience",
+        "isCorrect": false
+      },
+      {
+        "text": "Une stratégie unifiant tous les points de contact pour une expérience fluide",
+        "isCorrect": true
+      },
+      {
+        "text": "L'utilisation exclusive du téléphone pour le support client",
+        "isCorrect": false
+      },
+      {
+        "text": "La gestion des droits d'accès via un annuaire LDAP",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'omnicanalité connecte les canaux (email, mobile, magasin) pour que l'info circule sans rupture pour l'usager."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Adapter les stratégies de communication (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Comment rendre une publication sociale accessible aux personnes malvoyantes ?",
+    "options": [
+      {
+        "text": "En augmentant le nombre de hashtags en fin de texte",
+        "isCorrect": false
+      },
+      {
+        "text": "En ajoutant du texte alternatif (Alt Text) décrivant le visuel",
+        "isCorrect": true
+      },
+      {
+        "text": "En publiant exclusivement des vidéos sans piste sonore",
+        "isCorrect": false
+      },
+      {
+        "text": "L'implémentation d'une couche de chiffrement de bout en bout",
+        "isCorrect": false
+      },
+      {
+        "text": "La mise en place d'un protocole de transfert sécurisé (SFTP)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'accessibilité numérique (A11y) est une composante majeure d'une communication inclusive et éthique."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Adapter les stratégies de communication (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Quel ton adopter sur une plateforme type Slack/Teams par rapport à LinkedIn ?",
+    "options": [
+      {
+        "text": "Maintenir un ton strictement formel sur tous les supports",
+        "isCorrect": false
+      },
+      {
+        "text": "Un ton plus opérationnel en interne, contre un ton valorisant sur LinkedIn",
+        "isCorrect": true
+      },
+      {
+        "text": "Utiliser un ton agressif pour affirmer son autorité hiérarchique",
+        "isCorrect": false
+      },
+      {
+        "text": "La synchronisation des jetons d'authentification asynchrones",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'adaptation de la nétiquette au canal détermine l'efficacité et la réception du message."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Fonctions avancées de bureautique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Dans Excel, à quoi sert spécifiquement le Tableau Croisé Dynamique (TCD) ?",
+    "options": [
+      {
+        "text": "À colorier automatiquement les cellules en erreur",
+        "isCorrect": false
+      },
+      {
+        "text": "À synthétiser et croiser dynamiquement de grandes masses de données",
+        "isCorrect": true
+      },
+      {
+        "text": "À créer des graphiques vectoriels pour des présentations",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exportation des données vers un format JSON structuré",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le TCD est l'outil pivot de l'analyse de données bureautique avancée."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Fonctions avancées de bureautique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Quelle fonction Word automatise l'envoi de lettres à partir d'une liste Excel ?",
+    "options": [
+      {
+        "text": "Le simple copier-coller de paragraphes",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Publipostage (Mail Merge)",
+        "isCorrect": true
+      },
+      {
+        "text": "L'exécution de scripts de compilation binaire",
+        "isCorrect": false
+      },
+      {
+        "text": "Le paramétrage des balises de structuration DOM",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ajustement du bitrate pour la compression de flux",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le publipostage lie une base de données à un document type pour une production personnalisée de masse."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Fonctions avancées de bureautique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Où placer un logo pour qu'il figure sur toutes les pages d'une présentation ?",
+    "options": [
+      {
+        "text": "Sur la première diapositive uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans le 'Masque de diapositives' (Slide Master)",
+        "isCorrect": true
+      },
+      {
+        "text": "Dans le cache temporaire de la carte graphique",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation du rendu vectoriel sur le moteur graphique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La gestion des masques assure la cohérence de la charte graphique de manière automatisée."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Gérer les licences (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Que permet une licence Creative Commons 'CC BY-NC' ?",
+    "options": [
+      {
+        "text": "L'usage de l'œuvre à des fins commerciales sans citation",
+        "isCorrect": false
+      },
+      {
+        "text": "La reproduction sous réserve de citer l'auteur et sans usage commercial",
+        "isCorrect": true
+      },
+      {
+        "text": "La vente de l'œuvre sous son propre nom",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ajustement du bitrate pour la compression de flux",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "BY (Paternité) et NC (Non-Commercial) sont des clauses restrictives fondamentales du partage libre."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION de CONTENU DIGITAL",
+    "competence": "Gérer les licences (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Quelle est la particularité d'une œuvre dans le 'Domaine Public' ?",
+    "options": [
+      {
+        "text": "Elle appartient exclusivement aux instances gouvernementales",
+        "isCorrect": false
+      },
+      {
+        "text": "Elle peut être utilisée librement car les droits patrimoniaux ont expiré",
+        "isCorrect": true
+      },
+      {
+        "text": "Elle est de qualité médiocre car non protégée",
+        "isCorrect": false
+      },
+      {
+        "text": "Le paramétrage des balises de structuration DOM",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exportation des données vers un format JSON structuré",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le passage dans le domaine public permet l'appropriation collective et créative d'une ressource."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION de CONTENU DIGITAL",
+    "competence": "Gérer les licences (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Qu'est-ce qu'une licence 'Open Source' pour un logiciel ?",
+    "options": [
+      {
+        "text": "Un logiciel gratuit dont le fonctionnement est secret",
+        "isCorrect": false
+      },
+      {
+        "text": "Un logiciel dont le code source est accessible et modifiable par tous",
+        "isCorrect": true
+      },
+      {
+        "text": "Un logiciel piraté sans certificat de sécurité",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation du rendu vectoriel sur le moteur graphique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'Open Source favorise la transparence technique et le développement collaboratif."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Connexion et stockage (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Vous suspectez un piratage de votre boîte email. Que vérifiez-vous en priorité ?",
+    "options": [
+      {
+        "text": "La couleur du thème graphique de l'interface",
+        "isCorrect": false
+      },
+      {
+        "text": "Les règles de transfert automatique vers des adresses tierces",
+        "isCorrect": true
+      },
+      {
+        "text": "Le poids total de la corbeille système",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinitialisation de la pile TCP/IP du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "Un fichier en brouillon",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les pirates installent souvent des redirections pour continuer à espionner les flux même après un changement de mot de passe."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Connexion et stockage (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Pour une résilience maximale des données, quelle stratégie appliquez-vous ?",
+    "options": [
+      {
+        "text": "Le stockage unique sur une clé USB de haute capacité",
+        "isCorrect": false
+      },
+      {
+        "text": "La règle du 3-2-1 : 3 copies, sur 2 supports, dont 1 hors site",
+        "isCorrect": true
+      },
+      {
+        "text": "L'impression papier systématique de tous les fichiers",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinstallation des bibliothèques système corrompues",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exécution d'un diagnostic matériel via le BIOS/UEFI",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "C'est la norme professionnelle pour garantir la survie des données face aux pannes ou sinistres physiques."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Connexion et stockage (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Votre PC a une IP valide mais ne charge rien. Diagnostic : 'Erreur DNS'. Pourquoi ?",
+    "options": [
+      {
+        "text": "L'unité centrale n'est plus alimentée en courant",
+        "isCorrect": false
+      },
+      {
+        "text": "Le service de traduction des noms de domaine en IP ne répond pas",
+        "isCorrect": true
+      },
+      {
+        "text": "Le câble Ethernet est physiquement sectionné",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinitialisation de la pile TCP/IP du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "Le monitoring des flux via un analyseur de paquets",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le DNS est l'annuaire d'Internet ; sans lui, le navigateur ne sait pas où trouver le serveur du site demandé."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Confidentialité et identité numérique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Qu'est-ce que le chiffrement de bout en bout sur une messagerie ?",
+    "options": [
+      {
+        "text": "Le message est crypté uniquement entre le téléphone et l'antenne",
+        "isCorrect": false
+      },
+      {
+        "text": "Seuls l'expéditeur et le destinataire détiennent les clés de lecture",
+        "isCorrect": true
+      },
+      {
+        "text": "Le fournisseur de service peut déchiffrer les messages en cas de besoin",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un tunnel VPN avec chiffrement AES-256",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Ce niveau de sécurité empêche toute interception par le fournisseur ou par un tiers sur le réseau."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Confidentialité et identité numérique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Pourquoi utiliser un VPN sur un réseau Wi-Fi public ?",
+    "options": [
+      {
+        "text": "Pour booster artificiellement la bande passante",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour créer un tunnel chiffré qui masque votre IP et votre trafic",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour désactiver le pare-feu du routeur local",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'un système de détection d'intrusion (IDS)",
+        "isCorrect": false
+      },
+      {
+        "text": "L'audit des permissions sur les répertoires racines",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le VPN sécurise les échanges sur des infrastructures dont vous ne maîtrisez pas la fiabilité."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Confidentialité et identité numérique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Qu'est-ce que l'ingénierie sociale (Social Engineering) ?",
+    "options": [
+      {
+        "text": "Une technique avancée de programmation en Python",
+        "isCorrect": false
+      },
+      {
+        "text": "La manipulation psychologique pour inciter à divulguer des secrets",
+        "isCorrect": true
+      },
+      {
+        "text": "L'audit automatisé de la performance des serveurs",
+        "isCorrect": false
+      },
+      {
+        "text": "L'analyse comportementale des processus suspects",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'un système de détection d'intrusion (IDS)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "C'est l'attaque sur le 'facteur humain', visant à contourner la technique par la ruse."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger le matériel et les données (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Qu'est-ce qu'un 'Ransomware' (Rançongiciel) ?",
+    "options": [
+      {
+        "text": "Un programme qui nettoie la base de registre Windows",
+        "isCorrect": false
+      },
+      {
+        "text": "Un malware qui chiffre les données et exige un paiement pour la clé",
+        "isCorrect": true
+      },
+      {
+        "text": "Un logiciel de gestion de stock pour le commerce",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un tunnel VPN avec chiffrement AES-256",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La protection contre les ransomwares repose sur la détection préventive et des sauvegardes déconnectées."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger le matériel et les données (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. À quoi sert le chiffrement de disque complet (ex: BitLocker) ?",
+    "options": [
+      {
+        "text": "À accélérer l'accès aux données lors du démarrage",
+        "isCorrect": false
+      },
+      {
+        "text": "À rendre les données illisibles si le disque est extrait du PC volé",
+        "isCorrect": true
+      },
+      {
+        "text": "À augmenter la durée de vie physique du support SSD",
+        "isCorrect": false
+      },
+      {
+        "text": "L'audit des permissions sur les répertoires racines",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'un système de détection d'intrusion (IDS)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "C'est la protection ultime des secrets en cas de perte physique du terminal portable."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les services numériques (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. À quoi sert un certificat numérique (ou clé électronique) dans les échanges administratifs ?",
+    "options": [
+      {
+        "text": "À accélérer le traitement des impôts locaux",
+        "isCorrect": false
+      },
+      {
+        "text": "À signer des documents avec valeur légale et garantir l'intégrité du fichier",
+        "isCorrect": true
+      },
+      {
+        "text": "À modifier le design des formulaires administratifs PDF",
+        "isCorrect": false
+      },
+      {
+        "text": "La synchronisation des jetons d'authentification asynchrones",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La signature électronique qualifiée est le pilier des transactions dématérialisées de haut niveau."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les services numériques (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Qu'est-ce que l'interopérabilité entre deux services numériques ?",
+    "options": [
+      {
+        "text": "Le fait qu'ils partagent la même charte graphique",
+        "isCorrect": false
+      },
+      {
+        "text": "La capacité de systèmes hétérogènes à échanger des données sans intervention humaine (ex: API)",
+        "isCorrect": true
+      },
+      {
+        "text": "L'obligation d'utiliser le même mot de passe sur tous les services",
+        "isCorrect": false
+      },
+      {
+        "text": "La gestion des droits d'accès via un annuaire LDAP",
+        "isCorrect": false
+      },
+      {
+        "text": "L'implémentation d'une couche de chiffrement de bout en bout",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'interopérabilité permet d'automatiser les flux de travail en connectant des outils différents (ex: CRM vers Comptabilité)."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Utiliser les services numériques (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Dans le cadre de la santé numérique, qui est légalement propriétaire des données médicales ?",
+    "options": [
+      {
+        "text": "L'établissement de santé qui héberge le dossier",
+        "isCorrect": false
+      },
+      {
+        "text": "Le patient lui-même (droit de contrôle et de portabilité)",
+        "isCorrect": true
+      },
+      {
+        "text": "L'éditeur du logiciel de gestion médicale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un tunnel VPN avec chiffrement AES-256",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'usager dispose d'un droit souverain sur ses données sensibles, renforcé par le RGPD."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Adapter les stratégies de communication (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Qu'est-ce qu'une communication 'Omnicanale' ?",
+    "options": [
+      {
+        "text": "Une campagne diffusée sur un canal unique à forte audience",
+        "isCorrect": false
+      },
+      {
+        "text": "Une stratégie unifiant tous les points de contact pour une expérience fluide",
+        "isCorrect": true
+      },
+      {
+        "text": "L'utilisation exclusive du téléphone pour le support client",
+        "isCorrect": false
+      },
+      {
+        "text": "La gestion des droits d'accès via un annuaire LDAP",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'omnicanalité connecte les canaux (email, mobile, magasin) pour que l'info circule sans rupture pour l'usager."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Adapter les stratégies de communication (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Comment rendre une publication sociale accessible aux personnes malvoyantes ?",
+    "options": [
+      {
+        "text": "En augmentant le nombre de hashtags en fin de texte",
+        "isCorrect": false
+      },
+      {
+        "text": "En ajoutant du texte alternatif (Alt Text) décrivant le visuel",
+        "isCorrect": true
+      },
+      {
+        "text": "En publiant exclusivement des vidéos sans piste sonore",
+        "isCorrect": false
+      },
+      {
+        "text": "L'implémentation d'une couche de chiffrement de bout en bout",
+        "isCorrect": false
+      },
+      {
+        "text": "La mise en place d'un protocole de transfert sécurisé (SFTP)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'accessibilité numérique (A11y) est une composante majeure d'une communication inclusive et éthique."
+  },
+  {
+    "domaine": "DOMAINE 2 : COMMUNICATION ET COLLABORATION",
+    "competence": "Adapter les stratégies de communication (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Quel ton adopter sur une plateforme type Slack/Teams par rapport à LinkedIn ?",
+    "options": [
+      {
+        "text": "Maintenir un ton strictement formel sur tous les supports",
+        "isCorrect": false
+      },
+      {
+        "text": "Un ton plus opérationnel en interne, contre un ton valorisant sur LinkedIn",
+        "isCorrect": true
+      },
+      {
+        "text": "Utiliser un ton agressif pour affirmer son autorité hiérarchique",
+        "isCorrect": false
+      },
+      {
+        "text": "La synchronisation des jetons d'authentification asynchrones",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'une solution de communication unifiée",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'adaptation de la nétiquette au canal détermine l'efficacité et la réception du message."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Fonctions avancées de bureautique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Dans Excel, à quoi sert spécifiquement le Tableau Croisé Dynamique (TCD) ?",
+    "options": [
+      {
+        "text": "À colorier automatiquement les cellules en erreur",
+        "isCorrect": false
+      },
+      {
+        "text": "À synthétiser et croiser dynamiquement de grandes masses de données",
+        "isCorrect": true
+      },
+      {
+        "text": "À créer des graphiques vectoriels pour des présentations",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exportation des données vers un format JSON structuré",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le TCD est l'outil pivot de l'analyse de données bureautique avancée."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Fonctions avancées de bureautique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Quelle fonction Word automatise l'envoi de lettres à partir d'une liste Excel ?",
+    "options": [
+      {
+        "text": "Le simple copier-coller de paragraphes",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Publipostage (Mail Merge)",
+        "isCorrect": true
+      },
+      {
+        "text": "L'exécution de scripts de compilation binaire",
+        "isCorrect": false
+      },
+      {
+        "text": "Le paramétrage des balises de structuration DOM",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ajustement du bitrate pour la compression de flux",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le publipostage lie une base de données à un document type pour une production personnalisée de masse."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Fonctions avancées de bureautique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Où placer un logo pour qu'il figure sur toutes les pages d'une présentation ?",
+    "options": [
+      {
+        "text": "Sur la première diapositive uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans le 'Masque de diapositives' (Slide Master)",
+        "isCorrect": true
+      },
+      {
+        "text": "Dans le cache temporaire de la carte graphique",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation du rendu vectoriel sur le moteur graphique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La gestion des masques assure la cohérence de la charte graphique de manière automatisée."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION DE CONTENU DIGITAL",
+    "competence": "Gérer les licences (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Que permet une licence Creative Commons 'CC BY-NC' ?",
+    "options": [
+      {
+        "text": "L'usage de l'œuvre à des fins commerciales sans citation",
+        "isCorrect": false
+      },
+      {
+        "text": "La reproduction sous réserve de citer l'auteur et sans usage commercial",
+        "isCorrect": true
+      },
+      {
+        "text": "La vente de l'œuvre sous son propre nom",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ajustement du bitrate pour la compression de flux",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "BY (Paternité) et NC (Non-Commercial) sont des clauses restrictives fondamentales du partage libre."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION de CONTENU DIGITAL",
+    "competence": "Gérer les licences (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Quelle est la particularité d'une œuvre dans le 'Domaine Public' ?",
+    "options": [
+      {
+        "text": "Elle appartient exclusivement aux instances gouvernementales",
+        "isCorrect": false
+      },
+      {
+        "text": "Elle peut être utilisée librement car les droits patrimoniaux ont expiré",
+        "isCorrect": true
+      },
+      {
+        "text": "Elle est de qualité médiocre car non protégée",
+        "isCorrect": false
+      },
+      {
+        "text": "Le paramétrage des balises de structuration DOM",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exportation des données vers un format JSON structuré",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le passage dans le domaine public permet l'appropriation collective et créative d'une ressource."
+  },
+  {
+    "domaine": "DOMAINE 3 : CRÉATION de CONTENU DIGITAL",
+    "competence": "Gérer les licences (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Qu'est-ce qu'une licence 'Open Source' pour un logiciel ?",
+    "options": [
+      {
+        "text": "Un logiciel gratuit dont le fonctionnement est secret",
+        "isCorrect": false
+      },
+      {
+        "text": "Un logiciel dont le code source est accessible et modifiable par tous",
+        "isCorrect": true
+      },
+      {
+        "text": "Un logiciel piraté sans certificat de sécurité",
+        "isCorrect": false
+      },
+      {
+        "text": "La compilation du code source en langage machine",
+        "isCorrect": false
+      },
+      {
+        "text": "L'optimisation du rendu vectoriel sur le moteur graphique",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "L'Open Source favorise la transparence technique et le développement collaboratif."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Connexion et stockage (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Vous suspectez un piratage de votre boîte email. Que vérifiez-vous en priorité ?",
+    "options": [
+      {
+        "text": "La couleur du thème graphique de l'interface",
+        "isCorrect": false
+      },
+      {
+        "text": "Les règles de transfert automatique vers des adresses tierces",
+        "isCorrect": true
+      },
+      {
+        "text": "Le poids total de la corbeille système",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinitialisation de la pile TCP/IP du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "Un lien hypertexte",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Les pirates installent souvent des redirections pour continuer à espionner les flux même après un changement de mot de passe."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Connexion et stockage (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Pour une résilience maximale des données, quelle stratégie appliquez-vous ?",
+    "options": [
+      {
+        "text": "Le stockage unique sur une clé USB de haute capacité",
+        "isCorrect": false
+      },
+      {
+        "text": "La règle du 3-2-1 : 3 copies, sur 2 supports, dont 1 hors site",
+        "isCorrect": true
+      },
+      {
+        "text": "L'impression papier systématique de tous les fichiers",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinstallation des bibliothèques système corrompues",
+        "isCorrect": false
+      },
+      {
+        "text": "L'exécution d'un diagnostic matériel via le BIOS/UEFI",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "C'est la norme professionnelle pour garantir la survie des données face aux pannes ou sinistres physiques."
+  },
+  {
+    "domaine": "DOMAINE 4 : RÉSOLUTION DES PROBLÈMES",
+    "competence": "Connexion et stockage (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Votre PC a une IP valide mais ne charge rien. Diagnostic : 'Erreur DNS'. Pourquoi ?",
+    "options": [
+      {
+        "text": "L'unité centrale n'est plus alimentée en courant",
+        "isCorrect": false
+      },
+      {
+        "text": "Le service de traduction des noms de domaine en IP ne répond pas",
+        "isCorrect": true
+      },
+      {
+        "text": "Le câble Ethernet est physiquement sectionné",
+        "isCorrect": false
+      },
+      {
+        "text": "La réinitialisation de la pile TCP/IP du terminal",
+        "isCorrect": false
+      },
+      {
+        "text": "Le monitoring des flux via un analyseur de paquets",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le DNS est l'annuaire d'Internet ; sans lui, le navigateur ne sait pas où trouver le serveur du site demandé."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Confidentialité et identité numérique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Qu'est-ce que le chiffrement de bout en bout sur une messagerie ?",
+    "options": [
+      {
+        "text": "Le message est crypté uniquement entre le téléphone et l'antenne",
+        "isCorrect": false
+      },
+      {
+        "text": "Seuls l'expéditeur et le destinataire détiennent les clés de lecture",
+        "isCorrect": true
+      },
+      {
+        "text": "Le fournisseur de service peut déchiffrer les messages en cas de besoin",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un tunnel VPN avec chiffrement AES-256",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Ce niveau de sécurité empêche toute interception par le fournisseur ou par un tiers sur le réseau."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Confidentialité et identité numérique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. Pourquoi utiliser un VPN sur un réseau Wi-Fi public ?",
+    "options": [
+      {
+        "text": "Pour booster artificiellement la bande passante",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour créer un tunnel chiffré qui masque votre IP et votre trafic",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour désactiver le pare-feu du routeur local",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'un système de détection d'intrusion (IDS)",
+        "isCorrect": false
+      },
+      {
+        "text": "L'audit des permissions sur les répertoires racines",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "Le VPN sécurise les échanges sur des infrastructures dont vous ne maîtrisez pas la fiabilité."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Confidentialité et identité numérique (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q3. Qu'est-ce que l'ingénierie sociale (Social Engineering) ?",
+    "options": [
+      {
+        "text": "Une technique avancée de programmation en Python",
+        "isCorrect": false
+      },
+      {
+        "text": "La manipulation psychologique pour inciter à divulguer des secrets",
+        "isCorrect": true
+      },
+      {
+        "text": "L'audit automatisé de la performance des serveurs",
+        "isCorrect": false
+      },
+      {
+        "text": "L'analyse comportementale des processus suspects",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'un système de détection d'intrusion (IDS)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "C'est l'attaque sur le 'facteur humain', visant à contourner la technique par la ruse."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger le matériel et les données (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q1. Qu'est-ce qu'un 'Ransomware' (Rançongiciel) ?",
+    "options": [
+      {
+        "text": "Un programme qui nettoie la base de registre Windows",
+        "isCorrect": false
+      },
+      {
+        "text": "Un malware qui chiffre les données et exige un paiement pour la clé",
+        "isCorrect": true
+      },
+      {
+        "text": "Un logiciel de gestion de stock pour le commerce",
+        "isCorrect": false
+      },
+      {
+        "text": "Le renouvellement des certificats de sécurité SSL/TLS",
+        "isCorrect": false
+      },
+      {
+        "text": "La configuration d'un tunnel VPN avec chiffrement AES-256",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "La protection contre les ransomwares repose sur la détection préventive et des sauvegardes déconnectées."
+  },
+  {
+    "domaine": "DOMAINE 5 : SÉCURITÉ NUMÉRIQUE",
+    "competence": "Protéger le matériel et les données (Avancé)",
+    "niveau": "Avancé",
+    "points": 4,
+    "question": "Q2. À quoi sert le chiffrement de disque complet (ex: BitLocker) ?",
+    "options": [
+      {
+        "text": "À accélérer l'accès aux données lors du démarrage",
+        "isCorrect": false
+      },
+      {
+        "text": "À rendre les données illisibles si le disque est extrait du PC volé",
+        "isCorrect": true
+      },
+      {
+        "text": "À augmenter la durée de vie physique du support SSD",
+        "isCorrect": false
+      },
+      {
+        "text": "L'audit des permissions sur les répertoires racines",
+        "isCorrect": false
+      },
+      {
+        "text": "Le déploiement d'un système de détection d'intrusion (IDS)",
+        "isCorrect": false
+      }
+    ],
+    "commentaire": "C'est la protection ultime des secrets en cas de perte physique du terminal portable."
+  }
+]

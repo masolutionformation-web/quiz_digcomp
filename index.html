@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz DigComp - Évaluation des compétences numériques</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-gradient"></div>
+    
+    <div class="container" id="app">
+        <!-- Écran d'accueil -->
+        <div id="welcome-screen" class="screen active">
+            <div class="logo-container">
+                <div class="logo">
+                    <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="50" cy="50" r="45" fill="url(#gradient1)"/>
+                        <path d="M50 20 L50 80 M20 50 L80 50" stroke="white" stroke-width="4" stroke-linecap="round"/>
+                        <circle cx="50" cy="50" r="8" fill="white"/>
+                        <defs>
+                            <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </div>
+                <h1 class="title">Quiz DigComp</h1>
+                <p class="subtitle">Évaluez vos compétences numériques</p>
+            </div>
+            
+            <div class="card welcome-card">
+                <h2>Configuration du quiz</h2>
+                <p class="description">Sélectionnez les paramètres de votre évaluation personnalisée</p>
+                
+                <div class="config-section">
+                    <label class="config-label">
+                        <span class="label-text">Nombre de questions</span>
+                        <input type="number" id="num-questions" min="5" max="50" value="20" class="input-number">
+                    </label>
+                    
+                    <div class="config-group">
+                        <span class="label-text">Niveaux de difficulté</span>
+                        <div class="checkbox-group">
+                            <label class="checkbox-label">
+                                <input type="checkbox" id="niveau-initial" checked>
+                                <span class="checkmark"></span>
+                                <span>Initial</span>
+                            </label>
+                            <label class="checkbox-label">
+                                <input type="checkbox" id="niveau-intermediaire" checked>
+                                <span class="checkmark"></span>
+                                <span>Intermédiaire</span>
+                            </label>
+                            <label class="checkbox-label">
+                                <input type="checkbox" id="niveau-avance" checked>
+                                <span class="checkmark"></span>
+                                <span>Avancé</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                
+                <button id="start-btn" class="btn btn-primary">
+                    <span>Commencer le quiz</span>
+                    <svg class="btn-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M7.5 5L12.5 10L7.5 15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Écran de quiz -->
+        <div id="quiz-screen" class="screen">
+            <div class="quiz-header">
+                <div class="progress-container">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progress-fill"></div>
+                    </div>
+                    <div class="progress-text">
+                        <span id="current-question">1</span> / <span id="total-questions">20</span>
+                    </div>
+                </div>
+                <div class="score-display">
+                    <span class="score-label">Score</span>
+                    <span class="score-value" id="current-score">0</span>
+                </div>
+            </div>
+
+            <div class="quiz-content">
+                <div class="question-card card">
+                    <div class="question-meta">
+                        <span class="badge" id="question-domain">Domaine</span>
+                        <span class="badge badge-level" id="question-level">Initial</span>
+                    </div>
+                    <h2 class="question-text" id="question-text">Question va apparaître ici</h2>
+                    <div class="options-container" id="options-container">
+                        <!-- Les options seront générées dynamiquement -->
+                    </div>
+                    <div class="question-actions">
+                        <button id="validate-btn" class="btn btn-secondary" disabled>
+                            Valider
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="feedback-card card" id="feedback-card" style="display: none;">
+                    <div class="feedback-content">
+                        <div class="feedback-icon" id="feedback-icon"></div>
+                        <h3 class="feedback-title" id="feedback-title">Bonne réponse !</h3>
+                        <p class="feedback-message" id="feedback-message"></p>
+                    </div>
+                    <button id="next-btn" class="btn btn-primary">
+                        Question suivante
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Écran de résultats -->
+        <div id="results-screen" class="screen">
+            <div class="results-container">
+                <div class="results-header">
+                    <div class="results-icon">
+                        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="50" cy="50" r="45" fill="url(#gradient2)" opacity="0.2"/>
+                            <circle cx="50" cy="50" r="35" fill="url(#gradient2)"/>
+                            <path d="M35 50 L45 60 L65 40" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                            <defs>
+                                <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+                                    <stop offset="0%" style="stop-color:#11998e;stop-opacity:1" />
+                                    <stop offset="100%" style="stop-color:#38ef7d;stop-opacity:1" />
+                                </linearGradient>
+                            </defs>
+                        </svg>
+                    </div>
+                    <h1 class="results-title">Quiz terminé !</h1>
+                    <p class="results-subtitle">Voici votre évaluation détaillée</p>
+                </div>
+
+                <div class="card results-card">
+                    <div class="score-circle-container">
+                        <svg class="score-circle" viewBox="0 0 200 200">
+                            <circle cx="100" cy="100" r="90" fill="none" stroke="#e6e6e6" stroke-width="12"/>
+                            <circle id="score-circle-fill" cx="100" cy="100" r="90" fill="none" stroke="url(#gradient3)" stroke-width="12" stroke-linecap="round" transform="rotate(-90 100 100)"/>
+                            <defs>
+                                <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="0%">
+                                    <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+                                    <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+                                </linearGradient>
+                            </defs>
+                        </svg>
+                        <div class="score-circle-text">
+                            <div class="final-score" id="final-score">0%</div>
+                            <div class="score-label-small">Réussite</div>
+                        </div>
+                    </div>
+
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <div class="stat-value" id="correct-answers">0</div>
+                            <div class="stat-label">Bonnes réponses</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value" id="wrong-answers">0</div>
+                            <div class="stat-label">Erreurs</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value" id="total-points">0</div>
+                            <div class="stat-label">Points obtenus</div>
+                        </div>
+                    </div>
+
+                    <div class="results-by-domain" id="results-by-domain">
+                        <!-- Résultats par domaine seront générés dynamiquement -->
+                    </div>
+
+                    <div class="results-actions">
+                        <button id="restart-btn" class="btn btn-primary">
+                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                                <path d="M4 10C4 6.68629 6.68629 4 10 4C13.3137 4 16 6.68629 16 10C16 13.3137 13.3137 16 10 16C8.27477 16 6.72912 15.2051 5.68629 13.9512" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                                <path d="M5 16L5.68629 13.9512L7.73504 14.6375" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                            Recommencer
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
