@@ -5,6 +5,7 @@ let currentQuestionIndex = 0;
 let score = 0;
 let userAnswers = [];
 let selectedOption = null;
+let domainResults = {}; // Stockage des résultats par domaine
 
 // Configuration du quiz
 let quizConfig = {
@@ -317,6 +318,16 @@ function showResults() {
         domainResultsContainer.appendChild(domainElement);
     });
 
+    // Stocker les résultats par domaine de manière structurée
+    domainResults = {
+        'DOMAINE 1 : INFORMATIONS ET DONNÉES': resultsByDomain['DOMAINE 1 : INFORMATIONS ET DONNÉES'] || { correct: 0, total: 0 },
+        'DOMAINE 2 : COMMUNICATION ET COLLABORATION': resultsByDomain['DOMAINE 2 : COMMUNICATION ET COLLABORATION'] || { correct: 0, total: 0 },
+        'DOMAINE 3 : CRÉATION DE CONTENU DIGITAL': resultsByDomain['DOMAINE 3 : CRÉATION DE CONTENU DIGITAL'] || { correct: 0, total: 0 },
+        'DOMAINE 4 : RÉSOLUTION DES PROBLÈMES': resultsByDomain['DOMAINE 4 : RÉSOLUTION DES PROBLÈMES'] || { correct: 0, total: 0 },
+        'DOMAINE 5 : SÉCURITÉ NUMÉRIQUE': resultsByDomain['DOMAINE 5 : SÉCURITÉ NUMÉRIQUE'] || { correct: 0, total: 0 },
+        'global': percentage
+    };
+
     // Afficher l'écran de résultats
     showScreen('results-screen');
 }
@@ -324,6 +335,55 @@ function showResults() {
 // Recommencer le quiz
 function restartQuiz() {
     showScreen('welcome-screen');
+}
+
+// Générer l'URL du formulaire Google Forms pré-rempli
+function generateGoogleFormsUrl() {
+    // URL de base du formulaire
+    const baseUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSf2Sa6kudUT3hVMuhxFY0oNaedKbPuZu85yQnxqypY0Eohikg/viewform';
+    
+    // IDs des champs du formulaire (à remplacer par les vrais IDs)
+    // Pour trouver les IDs : ouvrir le formulaire, faire F12, chercher les attributs "name" des inputs
+    const formFields = {
+        domaine1: 'entry.XXXXXXXXX1', // RESULTAT DOMAINE 1 : INFORMATIONS ET DONNÉES (en %)
+        domaine2: 'entry.XXXXXXXXX2', // RESULTAT DOMAINE 2 : COMMUNICATION ET COLLABORATION (en %)
+        domaine3: 'entry.XXXXXXXXX3', // RESULTAT DOMAINE 3 : CRÉATION DE CONTENU DIGITAL (en %)
+        domaine4: 'entry.XXXXXXXXX4', // RESULTAT DOMAINE 4 : RÉSOLUTION DES PROBLÈMES (en %)
+        domaine5: 'entry.XXXXXXXXX5', // RESULTAT DOMAINE 5 : SÉCURITÉ NUMÉRIQUE (en %)
+        global: 'entry.XXXXXXXXX6'    // RESULTAT GLOBAL (en %)
+    };
+    
+    // Calculer les pourcentages pour chaque domaine
+    const domain1 = domainResults['DOMAINE 1 : INFORMATIONS ET DONNÉES'];
+    const domain2 = domainResults['DOMAINE 2 : COMMUNICATION ET COLLABORATION'];
+    const domain3 = domainResults['DOMAINE 3 : CRÉATION DE CONTENU DIGITAL'];
+    const domain4 = domainResults['DOMAINE 4 : RÉSOLUTION DES PROBLÈMES'];
+    const domain5 = domainResults['DOMAINE 5 : SÉCURITÉ NUMÉRIQUE'];
+    
+    const percentage1 = domain1.total > 0 ? Math.round((domain1.correct / domain1.total) * 100) : 0;
+    const percentage2 = domain2.total > 0 ? Math.round((domain2.correct / domain2.total) * 100) : 0;
+    const percentage3 = domain3.total > 0 ? Math.round((domain3.correct / domain3.total) * 100) : 0;
+    const percentage4 = domain4.total > 0 ? Math.round((domain4.correct / domain4.total) * 100) : 0;
+    const percentage5 = domain5.total > 0 ? Math.round((domain5.correct / domain5.total) * 100) : 0;
+    const globalPercentage = domainResults.global;
+    
+    // Construire l'URL avec les paramètres
+    const params = new URLSearchParams({
+        [formFields.domaine1]: percentage1,
+        [formFields.domaine2]: percentage2,
+        [formFields.domaine3]: percentage3,
+        [formFields.domaine4]: percentage4,
+        [formFields.domaine5]: percentage5,
+        [formFields.global]: globalPercentage
+    });
+    
+    return `${baseUrl}?${params.toString()}`;
+}
+
+// Ouvrir le formulaire Google Forms avec les résultats
+function submitToGoogleForms() {
+    const url = generateGoogleFormsUrl();
+    window.open(url, '_blank');
 }
 
 // Initialisation
@@ -336,4 +396,5 @@ document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('validate-btn').addEventListener('click', validateAnswer);
     document.getElementById('next-btn').addEventListener('click', nextQuestion);
     document.getElementById('restart-btn').addEventListener('click', restartQuiz);
+    document.getElementById('submit-forms-btn').addEventListener('click', submitToGoogleForms);
 });
