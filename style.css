@@ -5,7 +5,7 @@
 }
 
 :root {
-    --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --primary-gradient: #0066cc;
     --success-gradient: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
     --danger-gradient: linear-gradient(135deg, #eb3349 0%, #f45c43 100%);
     --card-bg: rgba(255, 255, 255, 0.95);
@@ -101,10 +101,14 @@ body {
 }
 
 .logo {
-    width: 120px;
-    height: 120px;
+    width: 30vw;
     margin: 0 auto 24px;
     animation: float 3s ease-in-out infinite;
+}
+
+.logo img {
+    width: 100%;
+    height: auto;
 }
 
 @keyframes float {

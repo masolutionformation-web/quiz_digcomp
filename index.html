@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,40 +10,31 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <div class="background-gradient"></div>
-    
+
     <div class="container" id="app">
         <!-- Écran d'accueil -->
         <div id="welcome-screen" class="screen active">
             <div class="logo-container">
                 <div class="logo">
-                    <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                        <circle cx="50" cy="50" r="45" fill="url(#gradient1)"/>
-                        <path d="M50 20 L50 80 M20 50 L80 50" stroke="white" stroke-width="4" stroke-linecap="round"/>
-                        <circle cx="50" cy="50" r="8" fill="white"/>
-                        <defs>
-                            <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
-                                <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
-                                <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
-                            </linearGradient>
-                        </defs>
-                    </svg>
+                    <img src="logo_msf_tricolore.png" alt="Logo">
                 </div>
                 <h1 class="title">Quiz DigComp</h1>
                 <p class="subtitle">Évaluez vos compétences numériques</p>
             </div>
-            
+
             <div class="card welcome-card">
                 <h2>Configuration du quiz</h2>
                 <p class="description">Sélectionnez les paramètres de votre évaluation personnalisée</p>
-                
+
                 <div class="config-section">
                     <label class="config-label">
                         <span class="label-text">Nombre de questions</span>
                         <input type="number" id="num-questions" min="5" max="50" value="20" class="input-number">
                     </label>
-                    
+
                     <div class="config-group">
                         <span class="label-text">Niveaux de difficulté</span>
                         <div class="checkbox-group">
@@ -64,11 +56,12 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <button id="start-btn" class="btn btn-primary">
                     <span>Commencer le quiz</span>
                     <svg class="btn-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
-                        <path d="M7.5 5L12.5 10L7.5 15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M7.5 5L12.5 10L7.5 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
                     </svg>
                 </button>
             </div>
@@ -107,7 +100,7 @@
                         </button>
                     </div>
                 </div>
-                
+
                 <div class="feedback-card card" id="feedback-card" style="display: none;">
                     <div class="feedback-content">
                         <div class="feedback-icon" id="feedback-icon"></div>
@@ -127,9 +120,10 @@
                 <div class="results-header">
                     <div class="results-icon">
                         <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="50" cy="50" r="45" fill="url(#gradient2)" opacity="0.2"/>
-                            <circle cx="50" cy="50" r="35" fill="url(#gradient2)"/>
-                            <path d="M35 50 L45 60 L65 40" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                            <circle cx="50" cy="50" r="45" fill="url(#gradient2)" opacity="0.2" />
+                            <circle cx="50" cy="50" r="35" fill="url(#gradient2)" />
+                            <path d="M35 50 L45 60 L65 40" stroke="white" stroke-width="4" stroke-linecap="round"
+                                stroke-linejoin="round" fill="none" />
                             <defs>
                                 <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
                                     <stop offset="0%" style="stop-color:#11998e;stop-opacity:1" />
@@ -145,8 +139,9 @@
                 <div class="card results-card">
                     <div class="score-circle-container">
                         <svg class="score-circle" viewBox="0 0 200 200">
-                            <circle cx="100" cy="100" r="90" fill="none" stroke="#e6e6e6" stroke-width="12"/>
-                            <circle id="score-circle-fill" cx="100" cy="100" r="90" fill="none" stroke="url(#gradient3)" stroke-width="12" stroke-linecap="round" transform="rotate(-90 100 100)"/>
+                            <circle cx="100" cy="100" r="90" fill="none" stroke="#e6e6e6" stroke-width="12" />
+                            <circle id="score-circle-fill" cx="100" cy="100" r="90" fill="none" stroke="url(#gradient3)"
+                                stroke-width="12" stroke-linecap="round" transform="rotate(-90 100 100)" />
                             <defs>
                                 <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="0%">
                                     <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
@@ -182,15 +177,20 @@
                     <div class="results-actions">
                         <button id="submit-forms-btn" class="btn btn-primary">
                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-                                <path d="M17 3L8.5 11.5L3 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                <path d="M17 10V17H3V3H12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path d="M17 3L8.5 11.5L3 6" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round" />
+                                <path d="M17 10V17H3V3H12" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" />
                             </svg>
                             Enregistrer les résultats
                         </button>
                         <button id="restart-btn" class="btn btn-primary">
                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-                                <path d="M4 10C4 6.68629 6.68629 4 10 4C13.3137 4 16 6.68629 16 10C16 13.3137 13.3137 16 10 16C8.27477 16 6.72912 15.2051 5.68629 13.9512" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                                <path d="M5 16L5.68629 13.9512L7.73504 14.6375" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path
+                                    d="M4 10C4 6.68629 6.68629 4 10 4C13.3137 4 16 6.68629 16 10C16 13.3137 13.3137 16 10 16C8.27477 16 6.72912 15.2051 5.68629 13.9512"
+                                    stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+                                <path d="M5 16L5.68629 13.9512L7.73504 14.6375" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round" />
                             </svg>
                             Recommencer
                         </button>
@@ -202,4 +202,5 @@
 
     <script src="app.js"></script>
 </body>
+
 </html>
