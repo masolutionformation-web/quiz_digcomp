@@ -341,32 +341,31 @@ function restartQuiz() {
 function generateGoogleFormsUrl() {
     // URL de base du formulaire
     const baseUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSf2Sa6kudUT3hVMuhxFY0oNaedKbPuZu85yQnxqypY0Eohikg/viewform';
-    
-    // IDs des champs du formulaire (à remplacer par les vrais IDs)
-    // Pour trouver les IDs : ouvrir le formulaire, faire F12, chercher les attributs "name" des inputs
+
+    // IDs des champs du formulaire Google Forms
     const formFields = {
-        domaine1: 'entry.XXXXXXXXX1', // RESULTAT DOMAINE 1 : INFORMATIONS ET DONNÉES (en %)
-        domaine2: 'entry.XXXXXXXXX2', // RESULTAT DOMAINE 2 : COMMUNICATION ET COLLABORATION (en %)
-        domaine3: 'entry.XXXXXXXXX3', // RESULTAT DOMAINE 3 : CRÉATION DE CONTENU DIGITAL (en %)
-        domaine4: 'entry.XXXXXXXXX4', // RESULTAT DOMAINE 4 : RÉSOLUTION DES PROBLÈMES (en %)
-        domaine5: 'entry.XXXXXXXXX5', // RESULTAT DOMAINE 5 : SÉCURITÉ NUMÉRIQUE (en %)
-        global: 'entry.XXXXXXXXX6'    // RESULTAT GLOBAL (en %)
+        domaine1: 'entry.1390360142',  // RESULTAT DOMAINE 1 : INFORMATIONS ET DONNÉES (en %)
+        domaine2: 'entry.494398783',   // RESULTAT DOMAINE 2 : COMMUNICATION ET COLLABORATION (en %)
+        domaine3: 'entry.818563881',   // RESULTAT DOMAINE 3 : CRÉATION DE CONTENU DIGITAL (en %)
+        domaine4: 'entry.1140857471',  // RESULTAT DOMAINE 4 : RÉSOLUTION DES PROBLÈMES (en %)
+        domaine5: 'entry.911865149',   // RESULTAT DOMAINE 5 : SÉCURITÉ NUMÉRIQUE (en %)
+        global: 'entry.294442511'      // RESULTAT GLOBAL (en %)
     };
-    
+
     // Calculer les pourcentages pour chaque domaine
     const domain1 = domainResults['DOMAINE 1 : INFORMATIONS ET DONNÉES'];
     const domain2 = domainResults['DOMAINE 2 : COMMUNICATION ET COLLABORATION'];
     const domain3 = domainResults['DOMAINE 3 : CRÉATION DE CONTENU DIGITAL'];
     const domain4 = domainResults['DOMAINE 4 : RÉSOLUTION DES PROBLÈMES'];
     const domain5 = domainResults['DOMAINE 5 : SÉCURITÉ NUMÉRIQUE'];
-    
+
     const percentage1 = domain1.total > 0 ? Math.round((domain1.correct / domain1.total) * 100) : 0;
     const percentage2 = domain2.total > 0 ? Math.round((domain2.correct / domain2.total) * 100) : 0;
     const percentage3 = domain3.total > 0 ? Math.round((domain3.correct / domain3.total) * 100) : 0;
     const percentage4 = domain4.total > 0 ? Math.round((domain4.correct / domain4.total) * 100) : 0;
     const percentage5 = domain5.total > 0 ? Math.round((domain5.correct / domain5.total) * 100) : 0;
     const globalPercentage = domainResults.global;
-    
+
     // Construire l'URL avec les paramètres
     const params = new URLSearchParams({
         [formFields.domaine1]: percentage1,
@@ -376,14 +375,29 @@ function generateGoogleFormsUrl() {
         [formFields.domaine5]: percentage5,
         [formFields.global]: globalPercentage
     });
-    
+
     return `${baseUrl}?${params.toString()}`;
 }
 
 // Ouvrir le formulaire Google Forms avec les résultats
 function submitToGoogleForms() {
     const url = generateGoogleFormsUrl();
-    window.open(url, '_blank');
+
+    // Message de confirmation
+    console.log('📤 Ouverture du formulaire Google Forms...');
+    console.log('📊 Résultats à envoyer:', domainResults);
+
+    // Ouvrir le formulaire pré-rempli dans un nouvel onglet
+    const formWindow = window.open(url, '_blank');
+
+    if (formWindow) {
+        // Afficher un message de succès
+        alert('✅ Le formulaire Google Forms a été ouvert dans un nouvel onglet.\n\n📋 Les résultats sont déjà pré-remplis.\nVous devez juste cliquer sur "Envoyer" pour soumettre vos résultats.');
+    } else {
+        // Si le popup a été bloqué
+        alert('⚠️ Le navigateur a bloqué l\'ouverture du formulaire.\n\nVeuillez autoriser les fenêtres pop-up ou copier ce lien:\n' + url);
+        console.log('URL du formulaire:', url);
+    }
 }
 
 // Initialisation
